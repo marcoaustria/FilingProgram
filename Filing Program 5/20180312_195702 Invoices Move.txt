@@ -1,0 +1,59 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009273 11721.pdf
+11721
+11721 3472341234
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010261 714-103.pdf
+714-103
+714-103 asd
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010361 6141-22305.pdf
+6141-22305
+6141-22305 asd
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010430 1040.pdf
+1040
+1040 teste
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010710 8843-14202.pdf
+8843-14202
+8843-14202 asd
+
+------------FILE MOVE SUCCESSFUL!------------
+Eve Ibrahim PA #463776 1448.pdf
+1448
+1448 asd
+
+------------FILE MOVE SUCCESSFUL!------------
+W0008955 631.pdf
+631
+631 asd
+
+Now searching skipped files.
+
+No folder match found for address: 280-7207
+Searching for address number: 280-
+
+Current invoice file being worked on:
+C:\Users\Marco\Desktop\INVOICES FAKE\ARS W0010442 280-7207.pdf
+Address Number: 280-7207
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010442 280-7207.pdf
+280-7207
+280-27207 asd
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 8
+Total running time of program: 39.897341144s
