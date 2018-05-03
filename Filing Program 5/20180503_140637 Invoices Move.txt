@@ -1,0 +1,57 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+Error: desktop.ini has an incorrect formatting.
+------------FILE MOVE SUCCESSFUL!------------
+Persaud 603-220 #322.pdf
+603-220
+603-220 Market, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+SEC 631 #83.pdf
+631
+631 Eagle Pointe S
+
+------------FILE MOVE SUCCESSFUL!------------
+TOHO 631 #6173.pdf
+631
+631 Eagle Pointe S
+
+Now searching skipped files.
+
+No folder match found for address: 4214-32905
+Searching for address number: 4214-
+No results found for: GALE 4214-32905 #106.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 4214-32905
+Searching for address number: 4214-
+No results found for: GALE 4214-32905 #107.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 205-433
+Searching for address number: 205-
+No results found for: PC 205-433 #6368.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\###\PERSAUD 1410-102 #306.pdf
+Address Number: 1410-102
+
+------------FILE MOVE SUCCESSFUL!------------
+PERSAUD 1410-102 #306.pdf
+1410-102
+1410-102 Celebration, Celebration
+No results found for: SEC 8846B #89.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: Underwood 10332 #1404.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: VMC 19901 #20023.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 4
+Total running time of program: 51.018457843s

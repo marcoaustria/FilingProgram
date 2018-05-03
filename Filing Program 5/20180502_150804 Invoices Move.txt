@@ -1,0 +1,44 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010407 1915.pdf
+1915
+1915 Ellery, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010408 1915.pdf
+1915
+1915 Ellery, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010409 1915.pdf
+1915
+1915 Ellery, Kissimmee
+
+File 128B failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010464 128B.pdf
+128B
+128B Eastpark, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010614 660-270.pdf
+660-270
+660-270 Celebration, Celebration- W- HOA APPROV_
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010759 1915.pdf
+1915
+1915 Ellery, Kissimmee
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 6
+Total running time of program: 65.044102135s

@@ -1,0 +1,684 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0009271 316-104 Southern Pecan.pdf
+316-104
+316-104 Southern Pecan
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0009421 1036 Waterside Toilet.pdf
+1036
+1036 Waterside, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0009482 437 Water Street.pdf
+437
+437 Water St., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0009890 848 Runner Oak.pdf
+848
+848 Runner Oak, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0009988 707-109 Westpark Way.pdf
+707-109
+707-109 Westpark, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0010037 437 Water Street.pdf
+437
+437 Water St., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill renter W0010039 501-423 Mirasol Circle.pdf
+501-423
+501-423 Mirasol Circle, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0010063 19901-204 Villa Tuscany.pdf
+19901-204
+19901-204 Villa Tuscany, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0010225 603-220 Market St..pdf
+603-220
+603-220 Market, Celebration
+Error: desktop.ini has an incorrect formatting.
+------------FILE MOVE SUCCESSFUL!------------
+Sec Dep W0009477 3112 Seaview Castle.pdf
+3112
+3112 Seaview, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+Sec Dep W0009937 770-304 Siena Palm.pdf
+770-304
+770-304 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+Sec Dep W0009980 770-302 Siena Palm.pdf
+770-302
+770-302 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+Sec Dep W0009981 770-302 Siena Palm.pdf
+770-302
+770-302 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+Sec. Dep. W0010086 1312 Falling Star.pdf
+1312
+1312 Falling Star, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+Sec. Dep. W0010106 1312 Falling Star.pdf
+1312
+1312 Falling Star, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009675 5012-75 Laguna Bay.pdf
+5012-75
+5012-75 Laguna Bay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009677 5012-75 Laguna Bay.pdf
+5012-75
+5012-75 Laguna Bay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009678 5012-75 Laguna Bay.pdf
+5012-75
+5012-75 Laguna Bay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009684 8481 Oasis Key.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009688 7609-301 Heritage Crossing.pdf
+7609-301
+7609-301 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009692 8481 Oasis Key.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009693 8481 Oasis Key.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009720 8264-1429 Maritime Flag.pdf
+8264-1429
+8264-1429 Maritime, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009750 7609-302 Heritage Crossing.pdf
+7609-302
+7609-302 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009763 5012-75 Laguna Bay.pdf
+5012-75
+5012-75 Laguna Bay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009767 5012-75 Laguna Bay.pdf
+5012-75
+5012-75 Laguna Bay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009770 7609-301 Heritage Crossing.pdf
+7609-301
+7609-301 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009778 8481 Oasis Key.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009789 770-302 Siena Oal.pdf
+770-302
+770-302 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009792 7689-101 Heritage Crossing.pdf
+7689-101
+7689-101 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009794 5500-14203 Metrowest Blvd.pdf
+5500-14203
+5500-14203 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009795 5500-14203 Metrowest Blvd.pdf
+5500-14203
+5500-14203 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009796 8481 Oasis Key.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009801 5524-10110 Metrowest Blvd,.pdf
+5524-10110
+5524-10110 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009810 2926 WIld Tamarind.pdf
+2926
+2926 Wild Tamarand, Avalon Park
+
+File 760-105 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009830 760-105 SIena Palm.pdf
+760-105
+760-105 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009832 411 Water St.pdf
+411
+411 Water Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009833 411 Water Street.pdf
+411
+411 Water Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009845 760-105 Siena Palm.pdf
+760-105
+760-105 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009860 - 2926 Wild Tamarind.pdf
+2926
+2926 Wild Tamarand, Avalon Park
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009863 740 Oak Shadows.pdf
+740
+740 Oak Shadows Rd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009871 7609-302 Hertitage Crossing.pdf
+7609-302
+7609-302 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009872 1350 Celebration Ave.pdf
+1350
+1350 Celebration Ave, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009877 8481 Oasis Key.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009895 5255-302 Images Cir.pdf
+5255-302
+5255-302 Images, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009919 701-204 Westpark Way.pdf
+701-204
+701-204 Westpark Way, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009921 701-204 Westaprk Way.pdf
+701-204
+701-204 Westpark Way, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009938 770-304 Siena Palm.pdf
+770-304
+770-304 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009942 7637-301 Heritage Crossing.pdf
+7637-301
+7637-301 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009943 7609-302 Heritage Crossing.pdf
+7609-302
+7609-302 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009944 5457 New Independence.pdf
+5457
+5457 New Independence, Independence
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009951 19901-204 Villa Tuscany.pdf
+19901-204
+19901-204 Villa Tuscany, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009956 701-204 Westpark Way.pdf
+701-204
+701-204 Westpark Way, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010007 760-105 Siena Palm.pdf
+760-105
+760-105 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010029 605-230 Market Street.pdf
+605-230
+605-230 Market St, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010030 605-240 Market Street.pdf
+605-240
+605-240 Market St, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010031 701-204 Westpark Way.pdf
+701-204
+701-204 Westpark Way, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010047 770-304 Siena Palm.pdf
+770-304
+770-304 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010051 7637-302 Heritage Crossing.pdf
+7637-302
+7637-302 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010060 7637-301 Heritage Crossing.pdf
+7637-301
+7637-301 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010073 565 Water Street.pdf
+565
+565 Water St., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010100 1230-5202 Wright Circle.pdf
+1230-5202
+1230-5202 Wright Circle, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010112 903 Maiden Street.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010192 760-203 Siena Palm.pdf
+760-203
+760-203 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010197 903 Maiden Street.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010206 565 Water Street.pdf
+565
+565 Water St., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010224 603-220 Market Street.pdf
+603-220
+603-220 Market, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010245 7817 Indian Ridge.pdf
+7817
+7817 Indian Ridge, KIssimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010249 1024 Jeater Bend.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010253 7817 Indian Ridge.pdf
+7817
+7817 Indian Ridge, KIssimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010254 7817 Indian Ridge.pdf
+7817
+7817 Indian Ridge, KIssimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010259 7588 Assembly Lane.pdf
+7588
+7588 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010260 7588 Assembly Lane.pdf
+7588
+7588 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010278 1908-3 Lake Atriums.pdf
+1908-3
+1908-3 Lake Atriums, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010284 7817 Indian Ridge.pdf
+7817
+7817 Indian Ridge, KIssimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010287 1350 Celebration Avenue.pdf
+1350
+1350 Celebration Ave, Celebration
+
+Now searching skipped files.
+No results found for: Bill Renter W0009109 316-104 Southern Pecan Disposal.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 619-104
+Searching for address number: 619-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\Bill Renter W0009532 619-104 Front Street.pdf
+Address Number: 619-104
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0009532 619-104 Front Street.pdf
+619-104
+619-3104 Front Street, Celebration
+
+No folder match found for address: 1230-305
+Searching for address number: 1230-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\Bill Renter W0010190 1230-305 Wright Circle.pdf
+Address Number: 1230-305
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0010190 1230-305 Wright Circle.pdf
+1230-305
+1230-5305 Wright Circle, Celebration
+No results found for: Bill Renter W009708 770 302 Siena Palm.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 1211-501
+Searching for address number: 1211-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\Sec. Dep. W0010032 1211-501 Olmdstead Blvd..pdf
+Address Number: 1211-501
+
+------------FILE MOVE SUCCESSFUL!------------
+Sec. Dep. W0010032 1211-501 Olmdstead Blvd..pdf
+1211-501
+1211-4501 Olmstead, Celebration
+No results found for: W0009251 7609 Heritage Crossing.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: W0009728 6466 Cava Alta.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 1400-4202
+Searching for address number: 1400-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009780 1400-4202 Celebration Ave..pdf
+Address Number: 1400-4202
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009780 1400-4202 Celebration Ave..pdf
+1400-4202
+1400-2402 Celebration Ave, Celebration
+
+No folder match found for address: 600-220
+Searching for address number: 600-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009784 600-220 Market St..pdf
+Address Number: 600-220
+
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009784 600-220 Market St..pdf
+600-220
+600-7101 Edwards, Celebration
+
+No folder match found for address: 600-220
+Searching for address number: 600-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009785 600-220 Market St..pdf
+Address Number: 600-220
+
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009785 600-220 Market St..pdf
+600-220
+600-7101 Edwards, Celebration
+
+No folder match found for address: 600-220
+Searching for address number: 600-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009786 600-220 Market St..pdf
+Address Number: 600-220
+
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009786 600-220 Market St..pdf
+600-220
+600-7101 Edwards, Celebration
+
+No folder match found for address: 600-220
+Searching for address number: 600-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009787 600-220 Market St..pdf
+Address Number: 600-220
+
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009787 600-220 Market St..pdf
+600-220
+600-7101 Edwards, Celebration
+
+No folder match found for address: 620-201
+Searching for address number: 620-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009828 620-201 Celebration Ave.pdf
+Address Number: 620-201
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009828 620-201 Celebration Ave.pdf
+620-201
+620-6201 Celebration, Celebration
+
+No folder match found for address: 623-305
+Searching for address number: 623-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009835 623-305 Front Street.pdf
+Address Number: 623-305
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009835 623-305 Front Street.pdf
+623-305
+623-5305 Front St., Celebration
+
+No folder match found for address: 1400-2301
+Searching for address number: 1400-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009847 1400-2301 Celebration Ave.pdf
+Address Number: 1400-2301
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009847 1400-2301 Celebration Ave.pdf
+1400-2301
+1400-301 Celebration, Celebration
+No results found for: W0009857 6084 Stevenson Dr..pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 19935-104
+Searching for address number: 19935-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009858 19935-104 Villa Isle.pdf
+Address Number: 19935-104
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009858 19935-104 Villa Isle.pdf
+Address Number: 19935-104
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009858 19935-104 Villa Isle.pdf
+19935-104
+19935-4104 Villa Isle Dr_
+
+No folder match found for address: 19935-104
+Searching for address number: 19935-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009876 19935-104 Villa Isle.pdf
+Address Number: 19935-104
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009876 19935-104 Villa Isle.pdf
+19935-104
+19935-4104 Villa Isle Dr_
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0009882 571 Water Street.pdf
+Address Number: 571
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009882 571 Water Street.pdf
+571
+571 Water, Celebration
+
+No folder match found for address: 3009-305
+Searching for address number: 3009-
+No results found for: W0010028 3009-305 Parkway Blvd..pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 280-207
+Searching for address number: 280-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0010074 280-207 Celebration Blvd..pdf
+Address Number: 280-207
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010074 280-207 Celebration Blvd..pdf
+280-207
+280-27207 Celebration, Celebration
+
+No folder match found for address: 280-207
+Searching for address number: 280-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0010091 280-207 Celebration Blvd..pdf
+Address Number: 280-207
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010091 280-207 Celebration Blvd..pdf
+280-207
+280-27207 Celebration, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0010185 1101 Golden Aster.pdf
+Address Number: 1101
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010185 1101 Golden Aster.pdf
+1101
+1101 Golden Aster
+
+No folder match found for address: 1400-104
+Searching for address number: 1400-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0010208 1400-104 Celebration Ave.pdf
+Address Number: 1400-104
+
+File 1400-104 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+No folder match found for address: 1400-104
+Searching for address number: 1400-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0010208 1400-104 Celebration Ave.pdf
+Address Number: 1400-104
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010208 1400-104 Celebration Ave.pdf
+1400-104
+1400-2104 Celebration Ave,Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0010223 1101 Golden Aster.pdf
+Address Number: 1101
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010223 1101 Golden Aster.pdf
+1101
+1101 Golden Aster
+No results found for: W0010262 1006b Wild Elm.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 620-201
+Searching for address number: 620-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0010265 620-201 Celebration Ave..pdf
+Address Number: 620-201
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010265 620-201 Celebration Ave..pdf
+620-201
+620-6201 Celebration, Celebration
+
+No folder match found for address: 280-207
+Searching for address number: 280-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0010286 280-207 Celebration Blvd.pdf
+Address Number: 280-207
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010286 280-207 Celebration Blvd.pdf
+280-207
+280-27207 Celebration, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\spaced\W0010344 1101 Golden Aster.pdf
+Address Number: 1101
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010344 1101 Golden Aster.pdf
+1101
+1101 Golden Aster
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 98
+Total running time of program: 284.119363894s

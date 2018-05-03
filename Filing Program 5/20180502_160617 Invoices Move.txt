@@ -1,0 +1,366 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0008871 5548-6103 Metrowest.pdf
+5548-6103
+5548-6103 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0009255 437 Water.pdf
+437
+437 Water St., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0009325 3016-209 Parkway.pdf
+3016-209
+3016-209 Parkway, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0009646 7454 Tattant.pdf
+7454
+7454 Tattant Blvd, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+Bill Renter W0009967 604 Trumpet.pdf
+604
+604 Trumpet, Celebration
+Error: desktop.ini has an incorrect formatting.
+------------FILE MOVE SUCCESSFUL!------------
+Sec Dep W0009935 3016-209 Parkway.pdf
+3016-209
+3016-209 Parkway, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+Sec Dep W0009936 3016-209 Parkway.pdf
+3016-209
+3016-209 Parkway, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+Sec. Dep. W0010352 1139B Mosaic.pdf
+1139B
+1139B Mosaic Dr., Celebration, FL 34747
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009252 7609-301 Heritage.pdf
+7609-301
+7609-301 Heritage Crossing, Reunion
+
+File 1017 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009574 HC 1017 Maiden.pdf
+1017
+1017 Maiden Terrace, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009650 405 Iris.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009676 1331 Flagstone.pdf
+1331
+1331 Flagstone, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009680 507 Montana.pdf
+507
+507 Montana, Davenport, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009683 507 Montana.pdf
+507
+507 Montana, Davenport, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009694 8481 Oasis.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009773 3016-209 Parkway.pdf
+3016-209
+3016-209 Parkway, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009788 5012-75 Laguna.pdf
+5012-75
+5012-75 Laguna Bay, Kissimmee
+
+File 10132 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009790 10132 Musket.pdf
+10132
+10132 Musket, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009791 3016-209 Parkway.pdf
+3016-209
+3016-209 Parkway, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009802 8481 Oasis.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009805 7689-101 Heritage.pdf
+7689-101
+7689-101 Heritage Crossing, Reunion
+
+File 1200-104 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009806 1200-104 Ironsmith.pdf
+1200-104
+1200-104 Ironsmith - Jow Whistler flr plan
+
+File 1517 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009809 1517 Equitable.pdf
+1517
+1517 Equitable Place, Mascotte, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009839 507 Montana.pdf
+507
+507 Montana, Davenport, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009846 205 Bellmont.pdf
+205
+205 Bellmont, Davenport
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009849 1200-4104 Ironsmith.pdf
+1200-4104
+1200-4104 Ironsmith, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009854 6425-103 Agastia.pdf
+6425-103
+6425-103 Agastia, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009856 5500-14203 Metrowest.pdf
+5500-14203
+5500-14203 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009861 205 Bellmont.pdf
+205
+205 Bellmont, Davenport
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009865 507 Montana.pdf
+507
+507 Montana, Davenport, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009866 507 Montana.pdf
+507
+507 Montana, Davenport, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009891 1017 Maiden.pdf
+1017
+1017 Maiden Terrace, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009896 2874 Oakwater.pdf
+2874
+2874 Oakwater, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009913 901B Pondview.pdf
+901B
+901B Pondview, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009922 701-204 Westpark.pdf
+701-204
+701-204 Westpark Way, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009924 701-204 Westpark.pdf
+701-204
+701-204 Westpark Way, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009930 13018 Langstaff.pdf
+13018
+13018 Langstaff, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009941 888 Assembly.pdf
+888
+888 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009948 8849-108 Latrec.pdf
+8849-108
+8849-108 Latrec, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009972 10213 Dovehill.pdf
+10213
+10213 Dovehill, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0009996 707 Eastlawn.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010002 5255-302 Images.pdf
+5255-302
+5255-302 Images, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010006 405 Iris.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010015 6425-103 Agastia.pdf
+6425-103
+6425-103 Agastia, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010017 3008-305 Parkway.pdf
+3008-305
+3008-305 Parkway, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010049 829 Assembly.pdf
+829
+829 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010059 12704 Hawkstone.pdf
+12704
+12704 Hawkstone, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010076 2874 Oakwater.pdf
+2874
+2874 Oakwater, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010077 4216 Overlook.pdf
+4216
+4216 Overlook, Palm Bay (S Shurina)
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010084 6862 Duncaster.pdf
+6862
+6862 Duncaster Street, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010097 10213 Dovehill.pdf
+10213
+10213 Dovehill, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010098 10213 Dovehill.pdf
+10213
+10213 Dovehill, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010109 2874 Oakwater.pdf
+2874
+2874 Oakwater, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010134 188 Longview.pdf
+188
+188 Longview, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010160 188 Longview.pdf
+188
+188 Longview, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010164 1001 Wiregrass.pdf
+1001
+1001 Wiregrass
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010165 1001 Wiregrass.pdf
+1001
+1001 Wiregrass
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010182 604 Trumpet.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010183 1001 Wiregrass.pdf
+1001
+1001 Wiregrass
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010189 146 Stargrass.pdf
+146
+146 Stargrass, Auburndale
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010216 1211-401 Stonecutter.pdf
+1211-401
+1211-401 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010217 888 Assembly.pdf
+888
+888 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010250 10213 Dovehill.pdf
+10213
+10213 Dovehill, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010251 10213 Dovehill.pdf
+10213
+10213 Dovehill, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010252 10213 Dovehill.pdf
+10213
+10213 Dovehill, W-EMP
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010255 1211-401 Stonecutter.pdf
+1211-401
+1211-401 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010256 1211-401 Stonecutter.pdf
+1211-401
+1211-401 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010271 4212 Overlook.pdf
+4212
+4212 Overlook, Palm Bay (S Shurina)
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 68
+Total running time of program: 252.243387969s

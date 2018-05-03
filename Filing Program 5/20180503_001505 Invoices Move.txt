@@ -1,0 +1,139 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+Error: desktop.ini has an incorrect formatting.
+Now searching skipped files.
+No results found for: W0009803 1423b Stickley.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: W0009804 1423b Stickley.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 239-101
+Searching for address number: 239-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0009864 239-101 Longview.pdf
+Address Number: 239-101
+
+
+No folder match found for address: 14353-901
+Searching for address number: 14353-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0009909 14353-901 Fredricksburg.pdf
+Address Number: 14353-901
+
+File 14353-901 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+No results found for: W0010052 533b Greenbrier.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010209 1101 Rosemary.pdf
+Address Number: 1101
+
+File 1101 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010209 1101 Rosemary.pdf
+Address Number: 1101
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010209 1101 Rosemary.pdf
+1101
+1101 Rosemary, Celebration
+
+No folder match found for address: 8801-104
+Searching for address number: 8801-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010210 8801-104 Latrec.pdf
+Address Number: 8801-104
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010210 8801-104 Latrec.pdf
+8801-104
+8801-8104 Latrec, Orlando
+
+No folder match found for address: 5578-206
+Searching for address number: 5578-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010214 5578-206 Metrowest.pdf
+Address Number: 5578-206
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010214 5578-206 Metrowest.pdf
+5578-206
+5578-1206 Metrowest, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010218 107 Clayton.pdf
+Address Number: 107
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010218 107 Clayton.pdf
+107
+107 Clayton Ave, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010257 2106 Donegan.pdf
+Address Number: 2106
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010257 2106 Donegan.pdf
+Address Number: 2106
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010257 2106 Donegan.pdf
+2106
+2106 Donegan, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010263 1111 Damask.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010263 1111 Damask.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010264 1111 Damask.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010264 1111 Damask.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010282 1029 Maiden.pdf
+Address Number: 1029
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010282 1029 Maiden.pdf
+1029
+1029 Maiden Teracce, Celebration
+
+No folder match found for address: 5578-206
+Searching for address number: 5578-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0010349 5578-206 Metrowest.pdf
+Address Number: 5578-206
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010349 5578-206 Metrowest.pdf
+5578-206
+5578-1206 Metrowest, Orlando
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 9
+Total running time of program: 112.005108984s

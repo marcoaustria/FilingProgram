@@ -1,0 +1,517 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+Now searching skipped files.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010268 1029.pdf
+Address Number: 1029
+
+File 1029 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+Now searching skipped files.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010268 1029.pdf
+Address Number: 1029
+
+File 1029 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010334 1227.pdf
+Address Number: 1227
+
+File 1227 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010334 1227.pdf
+Address Number: 1227
+
+File 1227 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010334 1227.pdf
+Address Number: 1227
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010334 1227.pdf
+1227
+1227 Falling Star, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010354 107.pdf
+Address Number: 107
+
+File 107 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010354 107.pdf
+Address Number: 107
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010354 107.pdf
+107
+107 Clayton Ave, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010358 1107.pdf
+Address Number: 1107
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010358 1107.pdf
+1107
+1107 Croton Place, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010373 1029.pdf
+Address Number: 1029
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010373 1029.pdf
+1029
+1029 Maiden Terrace, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010388 703.pdf
+Address Number: 703
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010388 703.pdf
+703
+703 Eastlawn, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010390 703.pdf
+Address Number: 703
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010390 703.pdf
+703
+703 Teal Ave, Kissimmee
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010398 1101.pdf
+Address Number: 1101
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010398 1101.pdf
+1101
+1101 Rosemary, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010400 1227.pdf
+Address Number: 1227
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010400 1227.pdf
+1227
+1227 Falling Star, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010401 1227.pdf
+Address Number: 1227
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010401 1227.pdf
+1227
+1227 Falling Star, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010431 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010431 751.pdf
+751
+751 Oakshadows, Celebration
+
+No folder match found for address: 8939-1205
+Searching for address number: 8939-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010490 8939-1205.pdf
+Address Number: 8939-1205
+
+File 8939-1205 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+No folder match found for address: 8939-1205
+Searching for address number: 8939-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010490 8939-1205.pdf
+Address Number: 8939-1205
+
+File 8939-1205 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+No folder match found for address: 8939-1205
+Searching for address number: 8939-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010490 8939-1205.pdf
+Address Number: 8939-1205
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010490 8939-1205.pdf
+8939-1205
+8939-205 Latrec, Orlando
+
+No folder match found for address: 8939-1205
+Searching for address number: 8939-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010510 8939-1205.pdf
+Address Number: 8939-1205
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010510 8939-1205.pdf
+8939-1205
+8939-205 Latrec, Orlando
+
+No folder match found for address: 5578-206
+Searching for address number: 5578-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010513 5578-206.pdf
+Address Number: 5578-206
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010513 5578-206.pdf
+5578-206
+5578-1206 Metrowest, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010558 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010558 751.pdf
+751
+751 Oakshadows, Celebration
+
+No folder match found for address: 1210-407
+Searching for address number: 1210-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010611 1210-407.pdf
+Address Number: 1210-407
+
+File 1210-407 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+No folder match found for address: 1210-407
+Searching for address number: 1210-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010611 1210-407.pdf
+Address Number: 1210-407
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010611 1210-407.pdf
+1210-407
+1210-8407 Vaux, Celebration (1)
+
+No folder match found for address: 1210-407
+Searching for address number: 1210-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010612 1210-407.pdf
+Address Number: 1210-407
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010612 1210-407.pdf
+1210-407
+1210-8407 Vaux, Celebration (1)
+
+No folder match found for address: 1210-407
+Searching for address number: 1210-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010613 1210-407.pdf
+Address Number: 1210-407
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010613 1210-407.pdf
+1210-407
+1210-8407 Vaux, Celebration (1)
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010649 1101.pdf
+Address Number: 1101
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010649 1101.pdf
+1101
+1101 Rosemary, Celebration
+
+No folder match found for address: 8939-1205
+Searching for address number: 8939-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010653 8939-1205.pdf
+Address Number: 8939-1205
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010653 8939-1205.pdf
+8939-1205
+8939-205 Latrec, Orlando
+
+No folder match found for address: 5578-309
+Searching for address number: 5578-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010661 5578-309.pdf
+Address Number: 5578-309
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010661 5578-309.pdf
+5578-309
+5578-1309 Metrowest, Orlando
+
+No folder match found for address: 5578-312
+Searching for address number: 5578-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010678 5578-312.pdf
+Address Number: 5578-312
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010678 5578-312.pdf
+5578-312
+5578-1312 Metrowest, Orlando
+
+No folder match found for address: 5578-312
+Searching for address number: 5578-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010679 5578-312.pdf
+Address Number: 5578-312
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010679 5578-312.pdf
+5578-312
+5578-1312 Metrowest, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010698 107.pdf
+Address Number: 107
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010698 107.pdf
+107
+107 Clayton Ave, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010725 1029.pdf
+Address Number: 1029
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010725 1029.pdf
+1029
+1029 Maiden Terrace, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010762 903B.pdf
+Address Number: 903B
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010762 903B.pdf
+903B
+903B Westpark, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010778 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010778 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010819 1006.pdf
+Address Number: 1006
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010819 1006.pdf
+1006
+1006 Wild Elm, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010827 1110.pdf
+Address Number: 1110
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010827 1110.pdf
+1110
+1110 Oakpond, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010848 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010848 751.pdf
+751
+751 Celebration Ave, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010883 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010883 751.pdf
+751
+751 Celebration Ave, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010939 703.pdf
+Address Number: 703
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010939 703.pdf
+703
+703 Siena Palm Dr., Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010983 719.pdf
+Address Number: 719
+
+File 719 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010983 719.pdf
+Address Number: 719
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010983 719.pdf
+719
+719 Siena Palm, Celebration
+
+No folder match found for address: 620-201
+Searching for address number: 620-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0010999 620-201.pdf
+Address Number: 620-201
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010999 620-201.pdf
+620-201
+620-6201 Celebration, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0011036 203.pdf
+Address Number: 203
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011036 203.pdf
+203
+203 Ficus, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0011045 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011045 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0011069 121.pdf
+Address Number: 121
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011069 121.pdf
+121
+121 Bexley Drive Davenport,FL
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0011100 1006.pdf
+Address Number: 1006
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011100 1006.pdf
+1006
+1006 Wild Elm, Celebration
+
+No folder match found for address: 620-201
+Searching for address number: 620-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ARS W0011103 620-201.pdf
+Address Number: 620-201
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011103 620-201.pdf
+620-201
+620-6201 Celebration, Celebration
+No results found for: desktop.ini
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\ECDD 1.12.17-2.13.17 913.pdf
+Address Number: 913
+
+------------FILE MOVE SUCCESSFUL!------------
+ECDD 1.12.17-2.13.17 913.pdf
+913
+913 Springpark Loop, Celebration
+
+No folder match found for address: 8840-108
+Searching for address number: 8840-
+No results found for: HOA Aug 8840-108.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: W0005628 904.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\W0008699 703.pdf
+Address Number: 703
+
+------------FILE MOVE SUCCESSFUL!------------
+W0008699 703.pdf
+703
+703 Eastlawn, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\W0010099 4744.pdf
+Address Number: 4744
+
+File 4744 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\regular\W0010099 4744.pdf
+Address Number: 4744
+
+------------FILE MOVE SUCCESSFUL!------------
+W0010099 4744.pdf
+4744
+4744 Windwood, Kissimmee
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 41
+Total running time of program: 1021.179366348s

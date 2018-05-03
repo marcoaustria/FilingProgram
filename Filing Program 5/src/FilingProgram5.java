@@ -1,7 +1,8 @@
 
 //Marco Austria
-//3.9.18
-//FINISHED
+//5.3.18
+
+//fixed continues!!!
 
 import java.util.Scanner;
 import java.io.BufferedWriter;
@@ -58,7 +59,7 @@ public class FilingProgram5 {
 		// to be filed folder
 		String folderPath = JOptionPane.showInputDialog("Enter folder path for invoices to be filed");
 
-		//folderPath = "C:\\Users\\Marco\\Desktop\\INVOICES FAKE";
+		// folderPath = "C:\\Users\\Marco\\Desktop\\INVOICES FAKE";
 
 		File[] fileListInvoices = new File(folderPath).listFiles(File::isFile); // possible
 		// debug
@@ -67,28 +68,30 @@ public class FilingProgram5 {
 		// A+ PM folder path
 		folderPath = JOptionPane.showInputDialog("Enter folder path for A+ PM");
 
-		//folderPath = "C:\\Users\\Marco\\Desktop\\PM FAKE"; // TODO debug
+		folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ PM - PROPERTIES"; // TODO debug
 
 		File[] fileListPM = new File(folderPath).listFiles(File::isDirectory);
 
 		// A+ LO folder path
 		folderPath = JOptionPane.showInputDialog("Enter folder path for A+ LO");
 
-		//folderPath = "C:\\Users\\Marco\\Desktop\\LO FAKE";
+		folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ LO - PROPERTIES";// TODO debug
 
 		File[] fileListLO = new File(folderPath).listFiles(File::isDirectory);
 
 		// A+ HC folder path
 		folderPath = JOptionPane.showInputDialog("Enter folder path for A+ HC");
 
-		//folderPath = "C:\\Users\\Marco\\Desktop\\HC FAKE";
+		folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ HC - HOME CHECK Properties";// TODO
+																													// debug
 
 		File[] fileListHC = new File(folderPath).listFiles(File::isDirectory);
 
 		// A+ INACTIVE folder path
 		folderPath = JOptionPane.showInputDialog("Enter folder path for A+ INACTIVE");
 
-		//folderPath = "C:\\Users\\Marco\\Desktop\\IN FAKE";
+		folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ INACTIVE - PROPERTIES";// TODO
+																											// debug
 
 		File[] fileListIN = new File(folderPath).listFiles(File::isDirectory);
 
@@ -108,7 +111,7 @@ public class FilingProgram5 {
 		// iterate through list of scanned pdfs
 		for (int i = 0; i < fileListInvoices.length; i++) {
 
-			System.out.println(i);
+			// System.out.println(i); TODO debug
 
 			if (round2Search && i == 0) {
 
@@ -118,6 +121,9 @@ public class FilingProgram5 {
 						"Immediately movable files transferred.\n" + "Files moved: " + moveCount + "\nTime taken: "
 								+ timeTaken + "s" + "\nReady to analyze files that found multiple results?",
 						"Ready?", JOptionPane.PLAIN_MESSAGE);
+				
+				display.append("Immediately movable files transferred.\n" + "Files moved: " + moveCount + "\nTime taken: "
+								+ timeTaken + "s" + "\nReady to analyze files that found multiple results?");
 
 				display.append("\nNow searching skipped files.\n");
 
@@ -125,9 +131,40 @@ public class FilingProgram5 {
 
 			}
 
+			// TODO may be the problem
 			// skip empty file slots during round 2
 			if (fileListInvoices[i] == null) {
-				continue;
+				// TODO if end of loop, do not continue!
+				// if end of invoices list
+				if (i == fileListInvoices.length - 1) {
+
+					// end of all searching after round 2
+					if (round2Search == true) {
+
+						System.out.println("ENDDDDDDDDDDDDDDDDDDD\n");// TODO debug
+
+						break;
+					}
+
+					boolean arrayEmpty = true;
+					for (int j = 0; j < round2SearchInvoices.length; j++) {
+						if (round2SearchInvoices[j] != null) {
+							arrayEmpty = false;
+						}
+					}
+
+					// last iteration of round 1
+					if (!arrayEmpty) {
+						round2Search = true;
+						System.out.println("ROUND 22222222222222222222\n");// TODO debug
+
+						i = -1;
+						continue; // TODO should it be this?
+					}
+				}
+
+				else
+					continue;
 			}
 
 			boolean askUserDashResult = false;
@@ -143,13 +180,45 @@ public class FilingProgram5 {
 																		// '\'
 			String addressNum = getAddressNum(currentFile);
 
-			System.out.println(addressNum); // TODO delete
+			System.out.println("addressNum: " + addressNum + "\n"); // TODO delete
 
 			// incorrect formatting
 			if (addressNum.equals("0")) {
 
+				// TODO uncomment
 				display.append("Error: " + currentFile + " has an incorrect formatting.");
-				continue;
+
+				// TODO if end of loop, do not continue!
+				// if end of invoices list
+				if (i == fileListInvoices.length - 1) {
+
+					// end of all searching after round 2
+					if (round2Search == true) {
+
+						System.out.println("ENDDDDDDDDDDDDDDDDDDD\n");// TODO debug
+
+						break;
+					}
+
+					boolean arrayEmpty = true;
+					for (int j = 0; j < round2SearchInvoices.length; j++) {
+						if (round2SearchInvoices[j] != null) {
+							arrayEmpty = false;
+						}
+					}
+
+					// last iteration of round 1
+					if (!arrayEmpty) {
+						round2Search = true;
+						System.out.println("ROUND 22222222222222222222\n");// TODO debug
+
+						i = -1;
+						continue; // TODO should it be this?
+					}
+				}
+
+				else
+					continue;
 			}
 
 			// find new folder
@@ -160,12 +229,46 @@ public class FilingProgram5 {
 			results.checkFolder("HC", fileListHC, addressNum);
 			results.checkFolder("IN", fileListIN, addressNum);
 
+			// TODO debug
+			System.out.println("resultsSize: " + results.getSize() + "\n");
+
 			// if no results
 			if (results.isEmpty()) {
 
 				if (!round2Search) {
 					round2SearchInvoices[i] = fileListInvoices[i];
-					continue;
+
+					// TODO if end of loop, do not continue!
+					// if end of invoices list
+					if (i == fileListInvoices.length - 1) {
+
+						// end of all searching after round 2
+						if (round2Search == true) {
+
+							System.out.println("ENDDDDDDDDDDDDDDDDDDD\n");// TODO debug
+
+							break;
+						}
+
+						boolean arrayEmpty = true;
+						for (int j = 0; j < round2SearchInvoices.length; j++) {
+							if (round2SearchInvoices[j] != null) {
+								arrayEmpty = false;
+							}
+						}
+
+						// last iteration of round 1
+						if (!arrayEmpty) {
+							round2Search = true;
+							System.out.println("ROUND 22222222222222222222\n");// TODO debug
+
+							i = -1;
+							continue; // TODO should it be this?
+						}
+					}
+
+					else
+						continue;
 				}
 
 				// find results with just first address numbers, Ex. 652, instead of 652-1403
@@ -182,7 +285,7 @@ public class FilingProgram5 {
 					results.checkFolder("HC", fileListHC, trialAddressNum);
 					results.checkFolder("IN", fileListIN, trialAddressNum);
 
-					System.out.println("getsize results: " + results.getSize()); // TODO debug
+					System.out.println("getsize results: " + results.getSize() + "\n"); // TODO debug
 
 					// after search for 135- and find only one result, still ask user
 					if (results.getSize() == 1)
@@ -197,7 +300,38 @@ public class FilingProgram5 {
 
 				if (!round2Search) {
 					round2SearchInvoices[i] = fileListInvoices[i];
-					continue;
+					// TODO if end of loop, do not continue!
+					// if end of invoices list
+					if (i == fileListInvoices.length - 1) {
+
+						// end of all searching after round 2
+						if (round2Search == true) {
+
+							System.out.println("ENDDDDDDDDDDDDDDDDDDD\n");// TODO debug
+
+							break;
+						}
+
+						boolean arrayEmpty = true;
+						for (int j = 0; j < round2SearchInvoices.length; j++) {
+							if (round2SearchInvoices[j] != null) {
+								arrayEmpty = false;
+							}
+						}
+
+						// last iteration of round 1
+						if (!arrayEmpty) {
+							round2Search = true;
+							System.out.println("ROUND 22222222222222222222\n");// TODO debug
+
+							i = -1;
+							continue; // TODO should it be this?
+						}
+					}
+
+					else
+						continue;
+
 				}
 
 				// repeats to ask user question
@@ -223,22 +357,28 @@ public class FilingProgram5 {
 						}
 					} catch (NumberFormatException ex) {
 						// s is not an integer
-						display.append("Please enter a valid integer choice.\n");
+
+						if (choice.contains("skip")) {
+							display.append("\n");
+							break;
+						}
+
+						else if (choice.contains("redo")) {
+							continue;
+						} else
+
+							JOptionPane.showMessageDialog(null, "Please enter a valid integer choice.\n", "ERROR",
+									JOptionPane.PLAIN_MESSAGE);
+						// display.append();
 						continue;
 					}
 
-					if (choice.contains("skip")) {
-						display.append("\n");
-						break;
-					}
+					if (intChoice > results.getSize() || intChoice == 0) {
 
-					else if (choice.contains("redo")) {
-						continue;
-					}
+						JOptionPane.showMessageDialog(null, "Please enter a valid choice.\n", "ERROR",
+								JOptionPane.PLAIN_MESSAGE);
 
-					else if (intChoice > results.getSize() || intChoice == 0) {
-
-						display.append("Please enter a valid choice.\n");
+						// display.append("Please enter a valid choice.\n");
 						continue;
 
 						// TODO may need to move openDoc outside of while loop
@@ -268,6 +408,10 @@ public class FilingProgram5 {
 
 				// edit newPath, cut off PM for ex.
 				newPath = newPath.substring(newPath.indexOf(" ") + 1);
+				
+				System.out.println("newPath2: " + newPath+"111");// TODO DEBUG
+				System.out.println("fullFileName: " + fullFileName);// TODO DEBUG
+
 
 				// successful move
 				if (fileListInvoices[i].renameTo(new File(newPath + "\\Repairs\\Invoices" + fullFileName))) {
@@ -295,12 +439,16 @@ public class FilingProgram5 {
 				else {
 					while (true) {
 
+						String fullFolderName = newPath.substring(newPath.lastIndexOf("\\") + 1);
+
 						display.append("\nFile " + addressNum
 								+ " failed to move!\nTry adding a Repairs and Invoices folder.\nOr filename may already exist in folder.\n");
 
 						// choose to redo or skip
-						String failResponse = JOptionPane.showInputDialog(
-								"If you would like to redo the current file please enter 'redo', if you would like to skip please enter 'skip'.\n");
+						String failResponse = JOptionPane.showInputDialog("\nFile: " + addressNum
+								+ " failed to move to: " + fullFolderName
+								+ "\nTry adding a Repairs and Invoices folder.\nOr filename may already exist in folder.\nCLOSE PDF!!!!!\n"
+								+ "If you would like to redo the current file please enter 'redo', if you would like to skip please enter 'skip'.\n");
 
 						// redo
 						if (failResponse.contains("redo")) {
@@ -321,27 +469,37 @@ public class FilingProgram5 {
 			} // if one solution
 
 			// no solution found
-			if (results.isEmpty() && round2Search)
+			if (results.isEmpty() && round2Search) {
 
 				display.append("No results found for: " + currentFile
 						+ "\nTry finding EXACT unit number and changing filename according to folder.\n");
+			}
 
-			boolean arrayEmpty = true;
-			for (int j = 0; j < round2SearchInvoices.length; j++) {
-				if (round2SearchInvoices[j] != null) {
-					arrayEmpty = false;
+			// if end of invoices list
+			if (i == fileListInvoices.length - 1) {
+
+				// end of all searching after round 2
+				if (round2Search == true) {
+
+					System.out.println("ENDDDDDDDDDDDDDDDDDDD\n");// TODO debug
+
+					break;
 				}
-			}
 
-			// end of all searching
-			if (i == fileListInvoices.length - 1 && round2Search == true) {
-				break;
-			}
+				boolean arrayEmpty = true;
+				for (int j = 0; j < round2SearchInvoices.length; j++) {
+					if (round2SearchInvoices[j] != null) {
+						arrayEmpty = false;
+					}
+				}
 
-			// last iteration
-			if (i == fileListInvoices.length - 1 && !arrayEmpty) {
-				round2Search = true;
-				i = -1;
+				// last iteration of round 1
+				if (!arrayEmpty) {
+					round2Search = true;
+					System.out.println("ROUND 22222222222222222222\n");// TODO debug
+
+					i = -1;
+				}
 			}
 
 		} // for loop for each invoice
@@ -362,8 +520,8 @@ public class FilingProgram5 {
 					new OutputStreamWriter(new FileOutputStream(timeStamp + " Invoices Move.txt"), "utf-8"));
 
 			for (String line : display.getText().split("\n"))
-				
-				//use \r\n instead of \n because notepad
+
+				// use \r\n instead of \n because notepad
 				writer.write(line + "\r\n");
 
 		} catch (IOException ex) {
@@ -387,15 +545,26 @@ public class FilingProgram5 {
 		String addressNum = "0";
 
 		try {
-			addressNum = currentFile.substring(currentFile.lastIndexOf(" ") + 1, currentFile.indexOf('.'));// TODO used
-																											// +1
-																											// because
-																											// firstindex
+
+			// one space in between
+			// TODO unusual
+//			String cutOff1 = currentFile.substring(0, currentFile.lastIndexOf(" "));
+//			String cutOff2 = cutOff1.substring(0, cutOff1.lastIndexOf(" "));
+//			addressNum = cutOff2.substring(cutOff2.lastIndexOf(" ") + 1);
+
+			// TODO original, uncomment
+			 addressNum = currentFile.substring(currentFile.lastIndexOf(" ") + 1,
+			 currentFile.lastIndexOf('.'));
+
 			// should be inclusive, make sure
 			// correct
 		} catch (IndexOutOfBoundsException e) {
+
+			// TODO uncomment?
 			JOptionPane.showMessageDialog(null, "Error addressNum: " + currentFile, "ERROR", JOptionPane.PLAIN_MESSAGE);
 
+			// TODO delete?
+			addressNum = "0";
 		}
 
 		return addressNum;

@@ -1,0 +1,10 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 0
+Total running time of program: 48.120140202s

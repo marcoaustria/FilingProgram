@@ -59,11 +59,13 @@ public class SearchResults {
 			folderAddressNum = currentFileFolder.substring(0, currentFileFolder.indexOf(" "));
 		} catch (IndexOutOfBoundsException e) {
 			//System.out.println("Error folderAddressNum: " + currentFileFolder);
-			JOptionPane.showMessageDialog(null, "Error folderAddressNum: " + currentFileFolder, "ERROR", JOptionPane.PLAIN_MESSAGE);
+			
+			//TODO uncomment
+			//JOptionPane.showMessageDialog(null, "Error folderAddressNum: " + currentFileFolder, "ERROR", JOptionPane.PLAIN_MESSAGE);
 
 		}
 
-		System.out.println(folderAddressNum);//TODO debug
+		//System.out.println(folderAddressNum);//TODO debug
 		
 		return folderAddressNum;
 	}
@@ -85,37 +87,41 @@ public class SearchResults {
 
 			// getFolderAddressNum returned a bad formatting for the folder name
 			if (folderAddressNum.equals("0")) {
+				
+				continue;
+				
+				//TODO uncomment?
 //				System.out.println("Error: " + currentFile + " has an incorrect formatting.\n");
 //
 //				System.out.println("Please edit the folder name and then enter 'redo' to redo the search or 'skip'.\n");
 //				
-				String failResponse = JOptionPane.showInputDialog("Error: " + currentFile + " has an incorrect formatting.\n"+"Please edit the folder name and then enter 'redo' to redo the search or 'skip'.\n");
-
-			//	String failResponse = input.nextLine();
-				
-				int count = 0;
-				while (!(failResponse.contains("redo") || failResponse.contains("skip"))) {
-
-				//	if (count != 0)
-						//failResponse = input.nextLine();
-					failResponse = JOptionPane.showInputDialog("Please enter a valid response");
-					//System.out.println("Please enter a valid response.");
-					
-					//JOptionPane.showMessageDialog(null, "Please enter a valid response.", "ERROR", JOptionPane.PLAIN_MESSAGE);
-
-					count++;
-				} // while
-
-				// redo
-				if (failResponse.contains("redo")) {
-					// redo for loop iteration
-					j = j - 1;
-					continue;
-				}
-				// skip
-				else if (failResponse.contains("skip")) {
-					continue;
-				}
+//				String failResponse = JOptionPane.showInputDialog("Error: " + currentFile + " has an incorrect formatting.\n"+"Please edit the folder name and then enter 'redo' to redo the search or 'skip'.\n");
+//
+//			//	String failResponse = input.nextLine();
+//				
+//				int count = 0;
+//				while (!(failResponse.contains("redo") || failResponse.contains("skip"))) {
+//
+//				//	if (count != 0)
+//						//failResponse = input.nextLine();
+//					failResponse = JOptionPane.showInputDialog("Please enter a valid response");
+//					//System.out.println("Please enter a valid response.");
+//					
+//					//JOptionPane.showMessageDialog(null, "Please enter a valid response.", "ERROR", JOptionPane.PLAIN_MESSAGE);
+//
+//					count++;
+//				} // while
+//
+//				// redo
+//				if (failResponse.contains("redo")) {
+//					// redo for loop iteration
+//					j = j - 1;
+//					continue;
+//				}
+//				// skip
+//				else if (failResponse.contains("skip")) {
+//					continue;
+//				}
 
 			} // if wrong formatting
 

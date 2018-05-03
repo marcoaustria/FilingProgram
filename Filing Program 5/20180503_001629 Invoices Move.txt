@@ -1,0 +1,38 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+Error: desktop.ini has an incorrect formatting.
+Now searching skipped files.
+No results found for: W0009803 1423b Stickley.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: W0009804 1423b Stickley.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 239-101
+Searching for address number: 239-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0009864 239-101 Longview.pdf
+Address Number: 239-101
+
+
+No folder match found for address: 14353-901
+Searching for address number: 14353-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\W0009909 14353-901 Fredricksburg.pdf
+Address Number: 14353-901
+
+
+File 14353-901 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+No results found for: W0010052 533b Greenbrier.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 0
+Total running time of program: 38.95379101s

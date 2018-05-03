@@ -1,0 +1,27 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+Immediately movable files transferred.
+Files moved: 0
+Time taken: 0.006183873s
+Ready to analyze files that found multiple results?
+Now searching skipped files.
+No results found for: desktop.ini
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: W0009803 1423B Stickley.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: W0009804 1423B Stickley.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: W0009864 239-101 Longview.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: W0009909 14353-907 Fredricksburg.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: W0010052 533B Greenbrier.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 0
+Total running time of program: 14.083590742s
