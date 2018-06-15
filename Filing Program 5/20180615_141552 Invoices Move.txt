@@ -1,0 +1,722 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009366 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009973 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010090 280-27207.pdf
+280-27207
+280-27207 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010394 5457.pdf
+5457
+5457 New Independence, Independence
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010509 1224-628.pdf
+1224-628
+1224-628 Hiawasee, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010616 660-270.pdf
+660-270
+660-270 Celebration, Celebration- W- HOA APPROV_
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010617 660-270.pdf
+660-270
+660-270 Celebration, Celebration- W- HOA APPROV_
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010683 12849-10304.pdf
+12849-10304
+12849-10304 Madison Pointe Circle, Orlando
+
+File 12843-9206 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010688 12843-9206.pdf
+12843-9206
+12843-9206 Madison Pointe, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010721 4918.pdf
+4918
+4918 White Bud, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010722 4918.pdf
+4918
+4918 White Bud, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010733 12843-9206.pdf
+12843-9206
+12843-9206 Madison Pointe, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010734 12843-9206.pdf
+12843-9206
+12843-9206 Madison Pointe, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010742 8801-8104.pdf
+8801-8104
+8801-8104 Latrec, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010815 315-20310.pdf
+315-20310
+315-20310 Grand Magnolia, Celebration
+
+File 1350B failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010837 1350B.pdf
+1350B
+1350B Celebration Ave., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010838 1350B.pdf
+1350B
+1350B Celebration Ave., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010857 902.pdf
+902
+902 Towhee, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010867 7649-201.pdf
+7649-201
+7649-201 Heritage, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010870 5578-1311.pdf
+5578-1311
+5578-1311 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010877 2522.pdf
+2522
+2522 Asbury, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010878 2522.pdf
+2522
+2522 Asbury, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010879 2522.pdf
+2522
+2522 Asbury, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010897 280-27310.pdf
+280-27310
+280-27310 Celebration Blvd
+
+File 229-5204 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010906 730.pdf
+730
+730 Centervale, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010934 280-27307.pdf
+280-27307
+280-27307 Celebration Blvd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010937 558.pdf
+558
+558 Brayton Lane, Davenport
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010948 19901-204.pdf
+19901-204
+19901-204 Villa Tuscany, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010989 660-270.pdf
+660-270
+660-270 Celebration, Celebration- W- HOA APPROV_
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010990 660-270.pdf
+660-270
+660-270 Celebration, Celebration- W- HOA APPROV_
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011003 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011004 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011005 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011009 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011029 1350B.pdf
+1350B
+1350B Celebration Ave., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011032 5263-205.pdf
+5263-205
+5263-205 Images, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011033 5263-205.pdf
+5263-205
+5263-205 Images, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011072 405.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011087 1002.pdf
+1002
+1002 Tapestry, Celebration
+
+File 113 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011091 113.pdf
+113
+113 Willow Ave, Altmonte Springs
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011092 113.pdf
+113
+113 Willow Ave, Altmonte Springs
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011094 113.pdf
+113
+113 Willow Ave, Altmonte Springs
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011095 113.pdf
+113
+113 Willow Ave, Altmonte Springs
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011115 5578-1312.pdf
+5578-1312
+5578-1312 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011124 1020-202.pdf
+1020-202
+1020-202 Siena, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011125A 1020-202.pdf
+1020-202
+1020-202 Siena, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011148 740.pdf
+740
+740 Oak Shadows Rd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011149 740.pdf
+740
+740 Oak Shadows Rd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011150 740.pdf
+740
+740 Oak Shadows Rd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011151 740.pdf
+740
+740 Oak Shadows Rd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011152 740.pdf
+740
+740 Oak Shadows Rd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011153 740.pdf
+740
+740 Oak Shadows Rd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011155 19935-4104.pdf
+19935-4104
+19935-4104 Villa Isle Dr_
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011180 1200.pdf
+1200
+1200 Downey, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011191 113.pdf
+113
+113 Willow Ave, Altmonte Springs
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011194 754-103.pdf
+754-103
+754-103 Siena Palm
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011195 714-103.pdf
+714-103
+714-103 Siena, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011215 8908.pdf
+8908
+8908 Dove Valley, Davenport
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011216 14514.pdf
+14514
+14514 Yellow Butterfly, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011222 280-27207.pdf
+280-27207
+280-27207 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011224 280-27207.pdf
+280-27207
+280-27207 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011225 280-27207.pdf
+280-27207
+280-27207 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011227 604.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011228 604.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011242 1040.pdf
+1040
+1040 Nash, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011262 14601.pdf
+14601
+14601 Old Thicket, Winter Garden
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011266 5578-1309.pdf
+5578-1309
+5578-1309 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011268 707.pdf
+707
+707 Eastlawn, Celebration
+
+File 1335B failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011279 1335B.pdf
+1335B
+1335B Flagstone, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011284 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011296 2926.pdf
+2926
+2926 Wild Tamarand, Avalon Park
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011304 1211-4501.pdf
+1211-4501
+1211-4501 Olmstead, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011310 229-5104.pdf
+229-5104
+229-5104 Longview, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011311 1040.pdf
+1040
+1040 Nash, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011314 1400-2306.pdf
+1400-2306
+1400-2306 Celebration Ave, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011315 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011316 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011323 136.pdf
+136
+136 Grantham Dr, Davenport
+
+File 706-706 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011326 706-706.pdf
+706-706
+706-706 Centervale, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011327 915.pdf
+915
+915 Greenlawn, Celebration
+
+File 14304-420 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011336 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011337 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011342 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011346 5548-6104.pdf
+5548-6104
+5548-6104 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011348 1350B.pdf
+1350B
+1350B Celebration Ave., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011353 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W10720 4918.pdf
+4918
+4918 White Bud, Windermere
+Immediately movable files transferred.
+Files moved: 87
+Time taken: 211.690634134s
+Ready to analyze files that found multiple results?
+Now searching skipped files.
+
+No folder match found for address: 280-207
+Searching for address number: 280-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010089 280-207.pdf
+Address Number: 280-207
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010089 280-207.pdf
+280-207
+280-27207 Celebration, Celebration
+
+No folder match found for address: 239-101
+Searching for address number: 239-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010111 239-101.pdf
+Address Number: 239-101
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010111 239-101.pdf
+239-101
+239-12101 Longview, Celebration
+No results found for: ARS W0010663 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0010665 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010773 121.pdf
+Address Number: 121
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010773 121.pdf
+121
+121 Bexley Drive Davenport,FL
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010836 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010836 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010840 4744.pdf
+Address Number: 4744
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010840 4744.pdf
+4744
+4744 Windwood, Kissimmee
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010841 4744.pdf
+Address Number: 4744
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010841 4744.pdf
+4744
+4744 Windwood, Kissimmee
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010842 4744.pdf
+Address Number: 4744
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010842 4744.pdf
+4744
+4744 Windwood, Kissimmee
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010953 1107.pdf
+Address Number: 1107
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010953 1107.pdf
+1107
+1107 Croton Place, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010954 1107.pdf
+Address Number: 1107
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010954 1107.pdf
+1107
+1107 Croton Place, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011020 1107.pdf
+Address Number: 1107
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011020 1107.pdf
+1107
+1107 Croton Place, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011023 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011023 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011024 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011024 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011025 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011025 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011026 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011026 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011028 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011028 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011044 1107.pdf
+Address Number: 1107
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011044 1107.pdf
+1107
+1107 Croton Place, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011101 1006.pdf
+Address Number: 1006
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011101 1006.pdf
+1006
+1006 Wild Elm, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011105 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011105 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011112 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011112 1111.pdf
+1111
+1111 Damask, Celebration
+
+No folder match found for address: 1007-304
+Searching for address number: 1007-
+No results found for: ARS W0011134 1007-304.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011136 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011136 1011.pdf
+1011
+1011 Nash, Celebration
+No results found for: ARS W0011146 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011229 703.pdf
+Address Number: 703
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011229 703.pdf
+703
+703 Teal Ave, Kissimmee
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011278 107.pdf
+Address Number: 107
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011278 107.pdf
+107
+107 Clayton Ave, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011280 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011280 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011340 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011340 1011.pdf
+1011
+1011 Nash, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (repairsdepartment@gmail.com)\Vendor Invoices 2017\Approved - To be ent'd in PB\Held Bills - Waiting for pymt\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011341 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011341 1011.pdf
+1011
+1011 Nash, Celebration
+No results found for: desktop.ini
+Try finding EXACT unit number and changing filename according to folder.
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 112
+Total running time of program: 328.91619543s

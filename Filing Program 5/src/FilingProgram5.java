@@ -1,8 +1,9 @@
 
 //Marco Austria
-//5.3.18
+//6.15.18
 
 //fixed continues!!!
+//6.15.18 removed debugs sysouts
 
 import java.util.Scanner;
 import java.io.BufferedWriter;
@@ -141,8 +142,6 @@ public class FilingProgram5 {
 					// end of all searching after round 2
 					if (round2Search == true) {
 
-						System.out.println("ENDDDDDDDDDDDDDDDDDDD\n");// TODO debug
-
 						break;
 					}
 
@@ -156,7 +155,6 @@ public class FilingProgram5 {
 					// last iteration of round 1
 					if (!arrayEmpty) {
 						round2Search = true;
-						System.out.println("ROUND 22222222222222222222\n");// TODO debug
 
 						i = -1;
 						continue; // TODO should it be this?
@@ -195,8 +193,6 @@ public class FilingProgram5 {
 					// end of all searching after round 2
 					if (round2Search == true) {
 
-						System.out.println("ENDDDDDDDDDDDDDDDDDDD\n");// TODO debug
-
 						break;
 					}
 
@@ -210,7 +206,6 @@ public class FilingProgram5 {
 					// last iteration of round 1
 					if (!arrayEmpty) {
 						round2Search = true;
-						System.out.println("ROUND 22222222222222222222\n");// TODO debug
 
 						i = -1;
 						continue; // TODO should it be this?
@@ -229,9 +224,6 @@ public class FilingProgram5 {
 			results.checkFolder("HC", fileListHC, addressNum);
 			results.checkFolder("IN", fileListIN, addressNum);
 
-			// TODO debug
-			System.out.println("resultsSize: " + results.getSize() + "\n");
-
 			// if no results
 			if (results.isEmpty()) {
 
@@ -244,8 +236,6 @@ public class FilingProgram5 {
 
 						// end of all searching after round 2
 						if (round2Search == true) {
-
-							System.out.println("ENDDDDDDDDDDDDDDDDDDD\n");// TODO debug
 
 							break;
 						}
@@ -260,8 +250,6 @@ public class FilingProgram5 {
 						// last iteration of round 1
 						if (!arrayEmpty) {
 							round2Search = true;
-							System.out.println("ROUND 22222222222222222222\n");// TODO debug
-
 							i = -1;
 							continue; // TODO should it be this?
 						}
@@ -285,8 +273,6 @@ public class FilingProgram5 {
 					results.checkFolder("HC", fileListHC, trialAddressNum);
 					results.checkFolder("IN", fileListIN, trialAddressNum);
 
-					System.out.println("getsize results: " + results.getSize() + "\n"); // TODO debug
-
 					// after search for 135- and find only one result, still ask user
 					if (results.getSize() == 1)
 						askUserDashResult = true;
@@ -307,8 +293,6 @@ public class FilingProgram5 {
 						// end of all searching after round 2
 						if (round2Search == true) {
 
-							System.out.println("ENDDDDDDDDDDDDDDDDDDD\n");// TODO debug
-
 							break;
 						}
 
@@ -322,8 +306,6 @@ public class FilingProgram5 {
 						// last iteration of round 1
 						if (!arrayEmpty) {
 							round2Search = true;
-							System.out.println("ROUND 22222222222222222222\n");// TODO debug
-
 							i = -1;
 							continue; // TODO should it be this?
 						}
@@ -403,16 +385,9 @@ public class FilingProgram5 {
 
 				String newPath = results.get(0);
 
-				System.out.println("newPath: " + newPath);// TODO DEBUG
-				System.out.println("results.toString" + results.toString()); // TODO DEBUG
-
 				// edit newPath, cut off PM for ex.
 				newPath = newPath.substring(newPath.indexOf(" ") + 1);
 				
-				System.out.println("newPath2: " + newPath+"111");// TODO DEBUG
-				System.out.println("fullFileName: " + fullFileName);// TODO DEBUG
-
-
 				// successful move
 				if (fileListInvoices[i].renameTo(new File(newPath + "\\Repairs\\Invoices" + fullFileName))) {
 
@@ -481,8 +456,6 @@ public class FilingProgram5 {
 				// end of all searching after round 2
 				if (round2Search == true) {
 
-					System.out.println("ENDDDDDDDDDDDDDDDDDDD\n");// TODO debug
-
 					break;
 				}
 
@@ -496,7 +469,6 @@ public class FilingProgram5 {
 				// last iteration of round 1
 				if (!arrayEmpty) {
 					round2Search = true;
-					System.out.println("ROUND 22222222222222222222\n");// TODO debug
 
 					i = -1;
 				}
