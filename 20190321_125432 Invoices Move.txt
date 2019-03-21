@@ -1,0 +1,732 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+Immediately movable files transferred.
+Files moved: 0
+Time taken: 0.032337194s
+Ready to analyze files that found multiple results?
+Now searching skipped files.
+
+No folder match found for address: 2-18-19
+Searching for address number: 2-18-
+No results found for: A+O ALPHA 169 2-18-19.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 2-5-19
+Searching for address number: 2-5-
+No results found for: A+O ALPHA 169 2-5-19.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: A+O DUKE1006.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: A+O FCB 169.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 19921-205
+Searching for address number: 19921-
+No results found for: AIR SYSTEMS 2675 19921-205.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: AIR SYSTEMS 2788 7817.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 14226-203
+Searching for address number: 14226-
+No results found for: AIR SYSTEMS 2835 14226-203.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5548-306
+Searching for address number: 5548-
+No results found for: AIR SYSTEMS 2836 5548-306.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 280-212
+Searching for address number: 280-
+No results found for: AIR SYSTEMS 2845 280-212.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 660-270
+Searching for address number: 660-
+No results found for: AIR SYSTEMS 2850 660-270.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 603-220
+Searching for address number: 603-
+No results found for: AIR SYSTEMS 2883 603-220.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: AIR SYSTEMS 2907 823.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: AIR SYSTEMS 2908 706.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: AIR SYSTEMS 2917 7588.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 3012-208
+Searching for address number: 3012-
+No results found for: AIR SYSTEMS 2918 3012-208.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: AIR SYSTEMS 2927 703.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: AIR SYSTEMS 2928 4918.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ALANS TREE 26967 2522.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ALANS TREE 27200 2522.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5500-14109
+Searching for address number: 5500-
+No results found for: ARS 11853 5500-14109.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 11862 CELEBRATION.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 710-205
+Searching for address number: 710-
+No results found for: ARS 11881 710-205.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 8264-1429
+Searching for address number: 8264-
+No results found for: ARS 11884 8264-1429.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 8264-1429
+Searching for address number: 8264-
+No results found for: ARS 11885 8264-1429.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 11887 848.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 11891 7200.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 11899 657.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 11936 4218.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 11937 4218.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 11941 860.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202010 901B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202011 901B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202012 901B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 229-5204
+Searching for address number: 229-
+No results found for: ARS 2020128 229-5204.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 2020129 604.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 2020137 915.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202015 901B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202018 657.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202022 657.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202025 901B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5524-209
+Searching for address number: 5524-
+No results found for: ARS 202030 5524-209.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202032 823.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202033 901B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202034 901B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202035 901B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202036 901B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202038 823.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202040 823.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202041 823.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202042 823.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202046 1006B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202057 1110.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202060 829.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202061 719.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 600-7101
+Searching for address number: 600-
+No results found for: ARS 202062 600-7101.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202063 4918.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 8264-1429
+Searching for address number: 8264-
+No results found for: ARS 202065 8264-1429.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202067 657.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202069 657.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202071 1006.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202072 8481.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202074 5512.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202077 10032.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202078 129.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202079 848.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5542-7106
+Searching for address number: 5542-
+No results found for: ARS 202080 5542-7106.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5542-7106
+Searching for address number: 5542-
+No results found for: ARS 202081 5542-7106.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 1401-3306
+Searching for address number: 1401-
+No results found for: ARS 202082 1401-3306.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 900-301
+Searching for address number: 900-
+No results found for: ARS 202083 900-301.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202084 732.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202085 940B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202087 848.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202088 834.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202089 834.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202091 848.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202093 558.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 280-27307
+Searching for address number: 280-
+No results found for: ARS 202095 280-27307.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5578-1107
+Searching for address number: 5578-
+No results found for: ARS 202096 5578-1107.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5518-304
+Searching for address number: 5518-
+No results found for: ARS 202097 5518-304.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 280-27212
+Searching for address number: 280-
+No results found for: ARS 202098 280-27212.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202099 405.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202111 732.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202119 1006B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202123 903B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 229-5204
+Searching for address number: 229-
+No results found for: ARS 202127 229-5204.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 1400-2301
+Searching for address number: 1400-
+No results found for: ARS 202131 1400-2301.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS 202138 915.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: AVALON APR2019 1227.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: AVALON LAKES MAR2019 1227.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: BLUFFS APR2019 4212.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: BLUFFS APR2019 4214.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: BLUFFS APR2019 4216.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: BLUFFS APR2019 4218.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: BLUFFS MAR2019 4214.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: BLUFFS MAR2019 4216.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: BLUFFS MAR2019 4218.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 3012-108
+Searching for address number: 3012-
+No results found for: BRUCE VICKERS TAX RECEIPT 3012-108.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5255-206
+Searching for address number: 5255-
+No results found for: BRUCE VICKERS TAX RECEIPT 5255-206.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: BRUCE VICKERS TAX RECEIPT 534B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 605-230
+Searching for address number: 605-
+No results found for: BRUCE VICKERS TAX RECEIPT 605-230.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: BRUCE VICKERS TAX RECEIPT 657.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: BRUCE VICKERS TAX RECEIPT 823.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: CAT 13971 10032.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: CAT 14025 136.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: CAT 14037 707.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: CAT 14041 10032.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 239-201
+Searching for address number: 239-
+No results found for: CAT 14060 239-201.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: CAT 14061 657.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 603-220
+Searching for address number: 603-
+No results found for: CELEBRATION 4-1-19 603-220.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: DUKE FEB2019 1006.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: EVE 3012-108 (2).pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 3012-108
+Searching for address number: 3012-
+No results found for: EVE 3012-108.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: FCB 2-6-19 169.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: FCB 2-8-19 707.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 7609-302
+Searching for address number: 7609-
+No results found for: FCB 2-8-19 7609-302.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 7609-302
+Searching for address number: 7609-
+No results found for: FCB HOME DEPOT 7609-302.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: FL PEST 105363 1101.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: FL PEST 6200349 1040.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: FL PEST 6202543 7200.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2569 19921.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2614 10032.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5578-312
+Searching for address number: 5578-
+No results found for: HENDRY 2627 5578-312.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 7609-301
+Searching for address number: 7609-
+No results found for: HENDRY 2629 7609-301.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2635 1024.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 14340-702
+Searching for address number: 14340-
+No results found for: HENDRY 2636 14340-702.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 6164-308
+Searching for address number: 6164-
+No results found for: HENDRY 2637 6164-308.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2638 1040.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5255-302
+Searching for address number: 5255-
+No results found for: HENDRY 2639 5255-302.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2640 1448B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5500-109
+Searching for address number: 5500-
+No results found for: HENDRY 2641 5500-109.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5500-102
+Searching for address number: 5500-
+No results found for: HENDRY 2642 5500-102.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2643 1448.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 7649-201
+Searching for address number: 7649-
+No results found for: HENDRY 2644 7649-201.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5500-304
+Searching for address number: 5500-
+No results found for: HENDRY 2645 5500-304.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2648 581.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 7609-302
+Searching for address number: 7609-
+No results found for: HENDRY 2652 7609-302.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2653 169.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2655 6862.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 6320-603
+Searching for address number: 6320-
+No results found for: HENDRY 2656 6320-603.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2659 2750.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2660 1006B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2661 1139.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 2202-205
+Searching for address number: 2202-
+No results found for: HENDRY 2663 2202-205.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 7609-302
+Searching for address number: 7609-
+No results found for: HENDRY 2666 7609-302.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2667 821.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2669 1006B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2670 821.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2676 1224.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2677 703.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HENDRY 2682 1022.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HERON 1266349 14601.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 3016-209
+Searching for address number: 3016-
+No results found for: HERON 1276178 3016-209.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HERON 1284606 707.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HERON 1284607 707.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HERON 1285721 7454.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: HERON 1285722 7454.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 2202-205
+Searching for address number: 2202-
+No results found for: INTEGRITY MAR2019 2202-205.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 27-310
+Searching for address number: 27-
+No results found for: INTEGRITY MAR2019 280 27-310.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 39808 7200.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 39895 7454.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 39911 405.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 39912 1448.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 39917 604.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 40129 1040.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 40174 740.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 406847200.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 40772 7454.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 40773 405.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 40774 1448.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 40794 604.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 40996 1040.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: JUSTINS SUPERIOR 41040 740.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: KCA 8446 3040.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: KCA 8447 3019.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: KCA 8448 8481.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: KCA 8449 140.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: KCA 8476 3040.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: KCA 8477 3019.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: KCA 8478 8481.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: KCA 8479 140.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: MALLARD 546245 740.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: MIRABELLA APR2019 8843.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 8843-202
+Searching for address number: 8843-
+No results found for: MIRABELLA MAR2019 8843-202.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5578-206
+Searching for address number: 5578-
+No results found for: OEI 72955127 5578-206.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5578-312
+Searching for address number: 5578-
+No results found for: OEI 72955150 5578-312.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2018569 707.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2018570 1121.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2018571 1101.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2018572 7968.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2018573 12704.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2018574 5911.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2018575 7817.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2019590 7817.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2019591 5911.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2019592 12704.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2019593 7968.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2019594 1101.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2019595 1121.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: OTONIEL AYALA 2019596 707.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5500--14304
+Searching for address number: 5500--
+No results found for: PALMS CLUB APR2019 5500--14304.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5500-14109
+Searching for address number: 5500-
+No results found for: PALMS CLUB APR2019 5500-14109.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5518-11207
+Searching for address number: 5518-
+No results found for: PALMS CLUB APR2019 5518-11207.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5524-10209
+Searching for address number: 5524-
+No results found for: PALMS CLUB APR2019 5524-10209.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5578-1311
+Searching for address number: 5578-
+No results found for: PALMS CLUB APR2019 5578-1311.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5579-1107
+Searching for address number: 5579-
+No results found for: PALMS CLUB APR2019 5579-1107.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5500-14109
+Searching for address number: 5500-
+No results found for: PALMS CLUB MAR2019 5500-14109.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5500-14304
+Searching for address number: 5500-
+No results found for: PALMS CLUB MAR2019 5500-14304.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5518-11207
+Searching for address number: 5518-
+No results found for: PALMS CLUB MAR2019 5518-11207.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5524-10209
+Searching for address number: 5524-
+No results found for: PALMS CLUB MAR2019 5524-10209.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5578-1107
+Searching for address number: 5578-
+No results found for: PALMS CLUB MAR2019 5578-1107.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5578-1311
+Searching for address number: 5578-
+No results found for: PALMS CLUB MAR2019 5578-1311.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: REUNION APR2019 888.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: REUNION MAR2019 888.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ROSEVILLE FEB2019 1011.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ROSEVILLE MAR2019 1011.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 8801-8104
+Searching for address number: 8801-
+No results found for: SAND LAKE APR2019 8801-8104.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 8849-108
+Searching for address number: 8849-
+No results found for: SAND LAKE APR2019 8849-108.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: SEMINOLE TAX MAR2019 087324.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 6141-22201
+Searching for address number: 6141-
+No results found for: SERENATA APR2019 6141-22201.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 6141-22305
+Searching for address number: 6141-
+No results found for: SERENATA APR2019 6141-22305.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 6141-22308
+Searching for address number: 6141-
+No results found for: SERENATA APR2019 6141-22308.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 6157-1102
+Searching for address number: 6157-
+No results found for: SERENATA APR2019 6157-1102.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 6141-22201
+Searching for address number: 6141-
+No results found for: SERENATA MAR2019 6141-22201.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 6141-22305
+Searching for address number: 6141-
+No results found for: SERENATA MAR2019 6141-22305.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 6141-22308
+Searching for address number: 6141-
+No results found for: SERENATA MAR2019 6141-22308.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 6157-1102
+Searching for address number: 6157-
+No results found for: SERENATA MAR2019 6157-1102.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: SIMMONS 30216 829.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 8264-1429
+Searching for address number: 8264-
+No results found for: SIMMONS 30222 8264-1429.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: SOLUTIONS 9730 707.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: SOLUTIONS 9773 707.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 3224-106
+Searching for address number: 3224-
+No results found for: STONEBRIDGE APR2019 3224-106.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 3224-106
+Searching for address number: 3224-
+No results found for: STONEBRIDGE MAR2019 3224-106.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: TIDY POOLS 7491 7968.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: TIDY POOLS 7492 604.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: TIDY POOLS 7493 5240.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: TIDY POOLS 7494 707.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: TIDY POOLS 7590 7968.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: TIDY POOLS 7591 604.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: TIDY POOLS 7592 5240.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: TIDY POOLS 7593 707.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 0
+Total running time of program: 29.321776405s

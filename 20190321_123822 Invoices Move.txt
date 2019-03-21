@@ -1,0 +1,613 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+------------FILE MOVE SUCCESSFUL!------------
+AIR SYSTEMS 2812 7968.pdf
+7968
+7968 Magnolia Bend, Kissimmee
+
+File 5572-5312 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+AIR SYSTEMS 2819 5572-5312.pdf
+5572-5312
+5572-5312 Metrowest, Orlando (1)
+
+------------FILE MOVE SUCCESSFUL!------------
+AIR SYSTEMS 2831 910-103.pdf
+910-103
+910-103 Spring Park St, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ALANS TREE 26748 2522.pdf
+2522
+2522 Asbury, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11627 5536-8312.pdf
+5536-8312
+5536-8312 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11774 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11784 7649-201.pdf
+7649-201
+7649-201 Heritage, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11794 14514.pdf
+14514
+14514 Yellow Butterfly, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11828 860.pdf
+860
+860 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11829 14601.pdf
+14601
+14601 Old Thicket, Winter Garden
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11834 10132.pdf
+10132
+10132 Musket, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11835 1040.pdf
+1040
+1040 Nash, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11842 2436-46.pdf
+2436-46
+2436-46 Sweetwater, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11844 2436-46.pdf
+2436-46
+2436-46 Sweetwater, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11848 604.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11851 7588.pdf
+7588
+7588 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11857 239-12201.pdf
+239-12201
+239-12201 Longview Ave., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11858 660-270.pdf
+660-270
+660-270 Celebration, Celebration- W- HOA APPROV_
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11860 603-220.pdf
+603-220
+603-220 Market, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 11868 1230-5214.pdf
+1230-5214
+1230-5214 Wright Circle, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 1971B 6141-22308.pdf
+6141-22308
+6141-22308 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 1986 821.pdf
+821
+821 Assembly Ct, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 1987 821.pdf
+821
+821 Assembly Ct, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 1990 1448B.pdf
+1448B
+1448B Stickley, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 1991 1448B.pdf
+1448B
+1448B Stickley, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202001 5512.pdf
+5512
+5512 Paradise Cay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202013 1006B.pdf
+1006B
+1006B Wild Elm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202014 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202016 2916.pdf
+2916
+2916 Blooming Alameda, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202019 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202020 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202021 821.pdf
+821
+821 Assembly Ct, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202024 5457.pdf
+5457
+5457 New Independence, Independence
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202027 5512.pdf
+5512
+5512 Paradise Cay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202028 1400-2301.pdf
+1400-2301
+1400-2301 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+BLUFFS FEB2019 4218.pdf
+4218
+4218 Overlook, Palm Bay (S Shurina)
+
+------------FILE MOVE SUCCESSFUL!------------
+BRUCE VICKERS TAX RECEIPT 910-103.pdf
+910-103
+910-103 Spring Park St, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+CAT 13987 660-270.pdf
+660-270
+660-270 Celebration, Celebration- W- HOA APPROV_
+
+------------FILE MOVE SUCCESSFUL!------------
+CAT 14010 754-103.pdf
+754-103
+754-103 Siena Palm
+
+------------FILE MOVE SUCCESSFUL!------------
+FCB 1-2-19 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+FCB 12-17-18 3016-209.pdf
+3016-209
+3016-209 Parkway Blvd, Kissimmee (1)
+
+------------FILE MOVE SUCCESSFUL!------------
+FL PEST 7202864 7200.pdf
+7200
+7200 Broomshedge, Independence
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2604 7588.pdf
+7588
+7588 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2605 12921.pdf
+12921
+12921 Langstaff, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2606 10032.pdf
+10032
+10032 Oak Quarry, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2611 829.pdf
+829
+829 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2612 5578-1312.pdf
+5578-1312
+5578-1312 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2617 6862.pdf
+6862
+6862 Duncaster Street, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2618 1040.pdf
+1040
+1040 Nash, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2619 848.pdf
+848
+848 Runner Oak, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2620 829.pdf
+829
+829 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2624 2202-205.pdf
+2202-205
+2202-205 Cascades Blvd, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2630 915B.pdf
+915B
+915B Greenlawn
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2631 14340-702.pdf
+14340-702
+14340-702 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2632 1331.pdf
+1331
+1331 Flagstone, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2633 915.pdf
+915
+915 Greenlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+HERON 1241337 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+HERON 1241338 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+HERON 1242449 7454.pdf
+7454
+7454 Tattant Blvd, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+HERON 1242450 7454.pdf
+7454
+7454 Tattant Blvd, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+HERON 1270865 5012-75.pdf
+5012-75
+5012-75 Laguna Bay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+JUSTINS 38933 7200.pdf
+7200
+7200 Broomshedge, Independence
+
+------------FILE MOVE SUCCESSFUL!------------
+JUSTINS 39022 7454.pdf
+7454
+7454 Tattant Blvd, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+JUSTINS 39041 604.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+JUSTINS 39062 405.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+JUSTINS 39063 1448.pdf
+1448
+1448 Stickley Ave, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+JUSTINS 39257 1040.pdf
+1040
+1040 Nash, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+JUSTINS 39300 740.pdf
+740
+740 Oak Shadows Rd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+KCA 8411 3040.pdf
+3040
+3040 Bloomsbury, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+KCA 8412 3019.pdf
+3019
+3019 Bransbury Ct., Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+KCA 8413 8481.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+KCA 8414 140.pdf
+140
+140 Rubino, Davenport - W
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL 2018502 1314.pdf
+1314
+1314 Artisan Ave
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL 2018537 5911.pdf
+5911
+5911 Grassy Point, Winter Garden
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL 2018538 581.pdf
+581
+581 Campus Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL 2018539 12704.pdf
+12704
+12704 Hawkstone, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL 2018540 7968.pdf
+7968
+7968 Magnolia Bend, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL 2018541 7817.pdf
+7817
+7817 Indian Ridge, KIssimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL 2018543 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL 2018544 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+TIDY POOLS 7385 7968.pdf
+7968
+7968 Magnolia Bend, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+TIDY POOLS 7386 604.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+TIDY POOLS 7387 5240.pdf
+5240
+5240 Lonesome Dove, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+TIDY POOLS 7388 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+VMC 2095 821.pdf
+821
+821 Assembly Ct, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+VMC 2096 6862.pdf
+6862
+6862 Duncaster Street, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+VMC 2097 7454.pdf
+7454
+7454 Tattant Blvd, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+VMC 2098 7588.pdf
+7588
+7588 Assembly, Reunion
+Immediately movable files transferred.
+Files moved: 88
+Time taken: 284.39802545s
+Ready to analyze files that found multiple results?
+Now searching skipped files.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\AIR SYSTEMS 2773 1029.pdf
+Address Number: 1029
+
+File 1029 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+Immediately movable files transferred.
+Files moved: 88
+Time taken: 415.481179169s
+Ready to analyze files that found multiple results?
+Now searching skipped files.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\AIR SYSTEMS 2773 1029.pdf
+Address Number: 1029
+
+------------FILE MOVE SUCCESSFUL!------------
+AIR SYSTEMS 2773 1029.pdf
+1029
+1029 Maiden Terrace, Celebration
+
+No folder match found for address: 1210-407
+Searching for address number: 1210-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\ARS 202007 1210-407.pdf
+Address Number: 1210-407
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202007 1210-407.pdf
+1210-407
+1210-8407 Vaux, Celebration (1)
+
+No folder match found for address: 1210-407
+Searching for address number: 1210-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\ARS 202009 1210-407.pdf
+Address Number: 1210-407
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202009 1210-407.pdf
+1210-407
+1210-8407 Vaux, Celebration (1)
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\ARS 202023 129.pdf
+Address Number: 129
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202023 129.pdf
+129
+129 Hanna, Davenport
+
+No folder match found for address: 1210-407
+Searching for address number: 1210-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\ARS 202026 1210-407.pdf
+Address Number: 1210-407
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS 202026 1210-407.pdf
+1210-407
+1210-8407 Vaux, Celebration (1)
+
+No folder match found for address: 620-201
+Searching for address number: 620-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\FCB 1-7-19 620-201.pdf
+Address Number: 620-201
+
+------------FILE MOVE SUCCESSFUL!------------
+FCB 1-7-19 620-201.pdf
+620-201
+620-6201 Celebration, Celebration
+
+No folder match found for address: 1210-407
+Searching for address number: 1210-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\HENDRY 2603 1210-407.pdf
+Address Number: 1210-407
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2603 1210-407.pdf
+1210-407
+1210-8407 Vaux, Celebration (1)
+
+No folder match found for address: 239-201
+Searching for address number: 239-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\HENDRY 2609 239-201.pdf
+Address Number: 239-201
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2609 239-201.pdf
+239-201
+239-12201 Longview Ave., Celebration
+
+No folder match found for address: 1300-103
+Searching for address number: 1300-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\HENDRY 2613 1300-103.pdf
+Address Number: 1300-103
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2613 1300-103.pdf
+1300-103
+1300-14103 Eastern Pecan, Winter Garden
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\HENDRY 2621 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2621 1011.pdf
+1011
+1011 Nash, Celebration
+
+No folder match found for address: 6141-308
+Searching for address number: 6141-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\HENDRY 2626 6141-308.pdf
+Address Number: 6141-308
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2626 6141-308.pdf
+6141-308
+6141-22308 Metrowest, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\HENDRY 2634 1006.pdf
+Address Number: 1006
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2634 1006.pdf
+1006
+1006 Wild Elm, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 1-15-19\OTONIEL 2018542 1101.pdf
+Address Number: 1101
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL 2018542 1101.pdf
+1101
+1101 Rosemary, Celebration
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 101
+Total running time of program: 599.543828809s

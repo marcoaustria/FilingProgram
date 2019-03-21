@@ -1,0 +1,110 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+File 229-5204 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+GALE #106 4214.pdf
+4214
+4214 Overlook, Palm Bay (S Shurina)
+
+------------FILE MOVE SUCCESSFUL!------------
+GALE #107 4214.pdf
+4214
+4214 Overlook, Palm Bay (S Shurina)
+Error: W0009831 Town Center.pdf - FILE IN A+ RO - REPAIRS -- TOWN CENTER CONDO has an incorrect formatting.Immediately movable files transferred.
+Files moved: 2
+Time taken: 31.170717165s
+Ready to analyze files that found multiple results?
+Now searching skipped files.
+No results found for: Air Systems 1422 14226.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: Air Systems 1504 8846B.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: Air Systems 1523 376.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 122-4501
+Searching for address number: 122-
+No results found for: Air Systems 1635 122-4501.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: Air Systems 2043 601.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0009728 6466.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 5578-206
+Searching for address number: 5578-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\Don't know where to move\ARS W0010365 5578-206.pdf
+Address Number: 5578-206
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010365 5578-206.pdf
+5578-206
+5578-1206 Metrowest, Orlando
+No results found for: ARS W0010663 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0010665 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 1007-304
+Searching for address number: 1007-
+No results found for: ARS W0011134 1007-304.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0011146 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0011213 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0011368 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0011374 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0011396 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0011458 936.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0011459 936.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0011680 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: CAT Appliances 12797 3008.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: desktop.ini
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: H&W Window 1929 6084.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 8840-108
+Searching for address number: 8840-
+No results found for: HOA Aug 8840-108.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 8235-101
+Searching for address number: 8235-
+No results found for: Mailbox Specialists 18600 8235-101.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+No folder match found for address: 205-433
+Searching for address number: 205-
+No results found for: PC #6368 205-433.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: Tidy Pools 6221 7868.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: Underwood #1404 10332.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: VMC 19901 #20023.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: W0005628 904.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 3
+Total running time of program: 80.442080896s

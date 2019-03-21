@@ -1,0 +1,169 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+------------FILE MOVE SUCCESSFUL!------------
+BLUFFS FEB2019 4214.pdf
+4214
+4214 Overlook, Palm Bay (S Shurina)
+
+------------FILE MOVE SUCCESSFUL!------------
+BLUFFS FEB2019 4216.pdf
+4216
+4216 Overlook, Palm Bay (S Shurina)
+
+File 4218 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+Please enter a valid response.
+File 4218 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+File 4218 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+BLUFFS FEB2019 4218.pdf
+4218
+4218 Overlook, Palm Bay (S Shurina)
+
+------------FILE MOVE SUCCESSFUL!------------
+CELEBRATION JAN2019 603-220.pdf
+603-220
+603-220 Market, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2625 1036.pdf
+1036
+1036 Waterside, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+HENDRY 2646 1036.pdf
+1036
+1036 Waterside, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL AYALA 2018555 14514.pdf
+14514
+14514 Yellow Butterfly, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+OTONIEL AYALA 2018556 3019.pdf
+3019
+3019 Bransbury Ct., Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+REUNION FEB2019 888.pdf
+888
+888 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+SERENATA FEB2019 6141-22201.pdf
+6141-22201
+6141-22201 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+SERENATA FEB2019 6141-22305.pdf
+6141-22305
+6141-22305 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+SERENATA FEB2019 6141-22308.pdf
+6141-22308
+6141-22308 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+SERENATA FEB2019 6157-1102.pdf
+6157-1102
+6157-1102 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+STONEBRIDGE FEB2019 3224-106.pdf
+3224-106
+3224-106 Dante Dr., Orlando
+Immediately movable files transferred.
+Files moved: 14
+Time taken: 180.879045997s
+Ready to analyze files that found multiple results?
+Now searching skipped files.
+
+No folder match found for address: 620-201
+Searching for address number: 620-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 2-8-19\A+O APPLIANCE DIRECT 620-201.pdf
+Address Number: 620-201
+
+------------FILE MOVE SUCCESSFUL!------------
+A+O APPLIANCE DIRECT 620-201.pdf
+620-201
+620-6201 Celebration, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 2-8-19\AVALON FEB2019 1227.pdf
+Address Number: 1227
+
+------------FILE MOVE SUCCESSFUL!------------
+AVALON FEB2019 1227.pdf
+1227
+1227 Falling Star, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 2-8-19\CELEBRATION JAN2019 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+CELEBRATION JAN2019 1011.pdf
+1011
+1011 Nash, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 2-8-19\DUKE 4751 1006.pdf
+Address Number: 1006
+
+------------FILE MOVE SUCCESSFUL!------------
+DUKE 4751 1006.pdf
+1006
+1006 Wild Elm, Celebration
+
+No folder match found for address: 5578-206
+Searching for address number: 5578-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 2-8-19\OEI 71983401 5578-206.pdf
+Address Number: 5578-206
+
+------------FILE MOVE SUCCESSFUL!------------
+OEI 71983401 5578-206.pdf
+5578-206
+5578-1206 Metrowest, Orlando
+
+No folder match found for address: 5578-312
+Searching for address number: 5578-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 2-8-19\OEI 72326358 5578-312.pdf
+Address Number: 5578-312
+
+------------FILE MOVE SUCCESSFUL!------------
+OEI 72326358 5578-312.pdf
+5578-312
+5578-1312 Metrowest, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\scanned 2-8-19\ROSEVILLE JAN2019 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+ROSEVILLE JAN2019 1011.pdf
+1011
+1011 Nash, Celebration
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 21
+Total running time of program: 282.80202251s

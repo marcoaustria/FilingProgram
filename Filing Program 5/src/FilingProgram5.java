@@ -69,21 +69,21 @@ public class FilingProgram5 {
 		// A+ PM folder path
 		folderPath = JOptionPane.showInputDialog("Enter folder path for A+ PM");
 
-		folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ PM - PROPERTIES"; // TODO debug
+		//folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ PM - PROPERTIES"; // TODO debug
 
 		File[] fileListPM = new File(folderPath).listFiles(File::isDirectory);
 
 		// A+ LO folder path
 		folderPath = JOptionPane.showInputDialog("Enter folder path for A+ LO");
 
-		folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ LO - PROPERTIES";// TODO debug
+		//folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ LO - PROPERTIES";// TODO debug
 
 		File[] fileListLO = new File(folderPath).listFiles(File::isDirectory);
 
 		// A+ HC folder path
 		folderPath = JOptionPane.showInputDialog("Enter folder path for A+ HC");
 
-		folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ HC - HOME CHECK Properties";// TODO
+		//folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ HC - HOME CHECK Properties";// TODO
 																													// debug
 
 		File[] fileListHC = new File(folderPath).listFiles(File::isDirectory);
@@ -91,7 +91,7 @@ public class FilingProgram5 {
 		// A+ INACTIVE folder path
 		folderPath = JOptionPane.showInputDialog("Enter folder path for A+ INACTIVE");
 
-		folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ INACTIVE - PROPERTIES";// TODO
+		//folderPath = "C:\\Users\\Marco\\Google Drive (aplusrentals690@gmail.com)\\A+ INACTIVE - PROPERTIES";// TODO
 																											// debug
 
 		File[] fileListIN = new File(folderPath).listFiles(File::isDirectory);

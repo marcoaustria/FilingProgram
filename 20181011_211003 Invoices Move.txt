@@ -1,0 +1,1969 @@
+
+INFO:
+Filing Program for automatic invoice filing.
+At any time, click 'X' in top right corner to stop program.
+Manually look at every 'FILE MOVE SUCCESSFUL' to make sure addresses match.
+If program is not running, close and open it again. If running fails, make sure folder path inputs are exact and without extra spaces.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2380 701-204.pdf
+701-204
+701-204 Westpark Way, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2381 5578-1206.pdf
+5578-1206
+5578-1206 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2382 1400-2402.pdf
+1400-2402
+1400-2402 Celebration Ave, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2388 770-306.pdf
+770-306
+770-306 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2392 7588.pdf
+7588
+7588 Assembly, Reunion
+
+File 11010 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2395 11010.pdf
+11010
+11010 Orangeshire, Ocoee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2396 11010.pdf
+11010
+11010 Orangeshire, Ocoee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2397 6141-22201.pdf
+6141-22201
+6141-22201 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2398 6141-22201.pdf
+6141-22201
+6141-22201 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2400 714-103.pdf
+714-103
+714-103 Siena, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2404 10032.pdf
+10032
+10032 Oak Quarry, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2405 8801-8104.pdf
+8801-8104
+8801-8104 Latrec, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2407 5012-75.pdf
+5012-75
+5012-75 Laguna Bay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2409 5524-10110.pdf
+5524-10110
+5524-10110 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2410 7588.pdf
+7588
+7588 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2411 1040.pdf
+1040
+1040 Nash, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2412 14340-702.pdf
+14340-702
+14340-702 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2414 6141-22201.pdf
+6141-22201
+6141-22201 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2415 6141-22201.pdf
+6141-22201
+6141-22201 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2418 1040.pdf
+1040
+1040 Nash, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2419 5578-1309.pdf
+5578-1309
+5578-1309 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2420 5578-1309.pdf
+5578-1309
+5578-1309 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2423 6349-104.pdf
+6349-104
+6349-104 Miramonte, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS EI2432 6349-104.pdf
+6349-104
+6349-104 Miramonte, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009308 405.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009396 11508-328.pdf
+11508-328
+11508-328 Westwood, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009432 1230-5202.pdf
+1230-5202
+1230-5202 Wright Circle, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009461 730.pdf
+730
+730 Centervale, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009462 730.pdf
+730
+730 Centervale, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009656 770-306.pdf
+770-306
+770-306 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009829 770-306.pdf
+770-306
+770-306 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0009940 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010473 6862.pdf
+6862
+6862 Duncaster Street, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010497 5548-6103.pdf
+5548-6103
+5548-6103 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010563 7200.pdf
+7200
+7200 Broomshedge, Independence
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010571 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010672 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010674 5255-302.pdf
+5255-302
+5255-302 Images, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010707 606-350.pdf
+606-350
+606-350 Market, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010771 660-270.pdf
+660-270
+660-270 Celebration, Celebration- W- HOA APPROV_
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010789 4918.pdf
+4918
+4918 White Bud, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010802 4212.pdf
+4212
+4212 Overlook, Palm Bay (S Shurina)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010803 4216.pdf
+4216
+4216 Overlook, Palm Bay (S Shurina)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010804 4218.pdf
+4218
+4218 Overlook, Palm Bay (S Shurina)
+
+File 3412 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010805 3412.pdf
+3412
+3412 Overlook, Palm Bay (E Austria)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010807 3416.pdf
+3416
+3416 Overlook, Palm Bay (E Austria)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010808 3418.pdf
+3418
+3418 Overlook, Palm Bay (E Austria)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010839 754-103.pdf
+754-103
+754-103 Siena Palm
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010861 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010862 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010863 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010865 7637-302.pdf
+7637-302
+7637-302 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010874 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010875 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010908 12837-305.pdf
+12837-305
+12837-305 Madison Point_
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010949 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010950 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010951 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010952 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011006 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011007 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011008 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011010 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011013 4214.pdf
+4214
+4214 Overlook, Palm Bay (S Shurina)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011059 8481.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011090 113.pdf
+113
+113 Willow Ave, Altmonte Springs
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011093 LO 113.pdf
+113
+113 Willow Ave, Altmonte Springs
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011102 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011125B 1020-202.pdf
+1020-202
+1020-202 Siena, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011131 1448.pdf
+1448
+1448 Stickley Ave, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011137 113.pdf
+113
+113 Willow Ave, Altmonte Springs
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011141 2522.pdf
+2522
+2522 Asbury, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011142 2522.pdf
+2522
+2522 Asbury, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011154 7637-301.pdf
+7637-301
+7637-301 Heritage Crossing, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011176 14226-203.pdf
+14226-203
+14226-203 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011177 14226-203.pdf
+14226-203
+14226-203 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011189 113.pdf
+113
+113 Willow Ave, Altmonte Springs
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011192 113.pdf
+113
+113 Willow Ave, Altmonte Springs
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011197 606-350.pdf
+606-350
+606-350 Market, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011198 606-350.pdf
+606-350
+606-350 Market, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011199 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011200 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011201 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011202 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011209 1230-5305.pdf
+1230-5305
+1230-5305 Wright Circle, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011218 14353-907.pdf
+14353-907
+14353-907 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011220 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011221 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011230 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011232 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011234 917-101.pdf
+917-101
+917-101 Waterside, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011235 5518-11207.pdf
+5518-11207
+5518-11207 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011244 5536-8111.pdf
+5536-8111
+5536-8111 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011247 1401-3306.pdf
+1401-3306
+1401-3306 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011248 603-220.pdf
+603-220
+603-220 Market, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011249 3019.pdf
+3019
+3019 Bransbury Ct., Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011258 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011259 5518-11304.pdf
+5518-11304
+5518-11304 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011260 5518-11304.pdf
+5518-11304
+5518-11304 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011269 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011281 5548-6306.pdf
+5548-6306
+5548-6306 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011282 603-220.pdf
+603-220
+603-220 Market, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011283 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011286 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011287 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011288 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011289 707.pdf
+707
+707 Eastlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011290 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011291 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011292 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011293 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011294 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011295 1121.pdf
+1121
+1121 Damask, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011299 607.pdf
+607
+607 Wisteria, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011301 581.pdf
+581
+581 Campus Street, Celebration
+
+File 5554-4103 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011306 5554-4103.pdf
+5554-4103
+5554-4103 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011308 229-5104.pdf
+229-5104
+229-5104 Longview, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011321 604.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011331 600-7101.pdf
+600-7101
+600-7101 Edwards, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011332 5536-8312.pdf
+5536-8312
+5536-8312 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011333 5536-8312.pdf
+5536-8312
+5536-8312 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011335 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011339 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011343 4918.pdf
+4918
+4918 White Bud, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011347 229-5204.pdf
+229-5204
+229-5204 Longview, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011367 7968.pdf
+7968
+7968 Magnolia Bend, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011370 449.pdf
+449
+449 Water St, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011371 8908.pdf
+8908
+8908 Dove Valley, Davenport
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011375 5548-6306.pdf
+5548-6306
+5548-6306 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011376 5554-4206.pdf
+5554-4206
+5554-4206 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011383 740.pdf
+740
+740 Oak Shadows Rd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011384 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011385 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011386 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011387 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011389 1021-204.pdf
+1021-204
+1021-204 Siena Park, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011390 600-7101.pdf
+600-7101
+600-7101 Edwards, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011400 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011401 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011402 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011403 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011405 14601.pdf
+14601
+14601 Old Thicket, Winter Garden
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011406 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011407 829.pdf
+829
+829 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011408 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011409 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011410 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011411 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011412 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011413 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011419 770-304.pdf
+770-304
+770-304 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011421 1908-3.pdf
+1908-3
+1908-3 Lake Atriums, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011424 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011425 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011432 607.pdf
+607
+607 Wisteria, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011437 8813-302.pdf
+8813-302
+8813-302 Latrec, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011439 915B.pdf
+915B
+915B Greenlawn
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011442 3016-209.pdf
+3016-209
+3016-209 Parkway, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011444 8481.pdf
+8481
+8481 Oasis key, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011446 2926.pdf
+2926
+2926 Wild Tamarand, Avalon Park
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011447 2926.pdf
+2926
+2926 Wild Tamarand, Avalon Park
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011448 13018.pdf
+13018
+13018 Langstaff, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011449 13018.pdf
+13018
+13018 Langstaff, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011450 3016-209.pdf
+3016-209
+3016-209 Parkway, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011451 3016-209.pdf
+3016-209
+3016-209 Parkway, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011452 405.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011453 405.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011454 405.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011460 604.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011461 1211-8406.pdf
+1211-8406
+1211-8406 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011462 1211-8406.pdf
+1211-8406
+1211-8406 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011463 1211-8406.pdf
+1211-8406
+1211-8406 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011464 1211-8406.pdf
+1211-8406
+1211-8406 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011465 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011466 14514.pdf
+14514
+14514 Yellow Butterfly, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011468 13018.pdf
+13018
+13018 Langstaff, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011469 5548-6306.pdf
+5548-6306
+5548-6306 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011470 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011471 405.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011473 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011474 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011476 7817.pdf
+7817
+7817 Indian Ridge, KIssimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011481 754-103.pdf
+754-103
+754-103 Siena Palm
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011499 888.pdf
+888
+888 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011500 888.pdf
+888
+888 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011505 7649-201.pdf
+7649-201
+7649-201 Heritage, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011507 8849-15308.pdf
+8849-15308
+8849-15308 Villa View, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011508 8849-15308.pdf
+8849-15308
+8849-15308 Villa View, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011510 660-270.pdf
+660-270
+660-270 Celebration, Celebration- W- HOA APPROV_
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011512 7649-201.pdf
+7649-201
+7649-201 Heritage, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011513 7649-201.pdf
+7649-201
+7649-201 Heritage, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011516 1024.pdf
+1024
+1024 Jeater Bend, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011517 1040.pdf
+1040
+1040 Nash, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011518 1211-8406.pdf
+1211-8406
+1211-8406 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011519 1211-8406.pdf
+1211-8406
+1211-8406 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011520 1211-8406.pdf
+1211-8406
+1211-8406 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011521 1211-8406.pdf
+1211-8406
+1211-8406 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011522 1211-8406.pdf
+1211-8406
+1211-8406 Stonecutter, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011523 1221-202.pdf
+1221-202
+1221-202 Celebration Ave, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011525 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011527 13018.pdf
+13018
+13018 Langstaff, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011528 405.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011529 740.pdf
+740
+740 Oak Shadows Rd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011532 5500-14304.pdf
+5500-14304
+5500-14304 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011533 5524-10110.pdf
+5524-10110
+5524-10110 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011535 848.pdf
+848
+848 Runner Oak, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011536 848.pdf
+848
+848 Runner Oak, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011538 1847.pdf
+1847
+1847 Azalea, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011540 14304-420.pdf
+14304-420
+14304-420 Fredricksburg, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011543 1448.pdf
+1448
+1448 Stickley Ave, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011546 12923.pdf
+12923
+12923 Grovehurst, Windermere
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011547 860.pdf
+860
+860 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011548 860.pdf
+860
+860 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011549 860.pdf
+860
+860 Assembly, Reunion
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011550 1401-3306.pdf
+1401-3306
+1401-3306 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011551 1401-3306.pdf
+1401-3306
+1401-3306 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011552 1401-3306.pdf
+1401-3306
+1401-3306 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011553 1401-3306.pdf
+1401-3306
+1401-3306 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011554 848.pdf
+848
+848 Runner Oak, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011555 848.pdf
+848
+848 Runner Oak, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011556 1040.pdf
+1040
+1040 Nash, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011557 3016-209.pdf
+3016-209
+3016-209 Parkway, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011559 581.pdf
+581
+581 Campus Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011560 5524-10209.pdf
+5524-10209
+5524-10209 Metrowest Blvd, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011567 6349-104.pdf
+6349-104
+6349-104 Miramonte, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011568 6349-104.pdf
+6349-104
+6349-104 Miramonte, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011572 7323.pdf
+7323
+7323 Everleigh, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011578 1230-5214.pdf
+1230-5214
+1230-5214 Wright Circle, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011579 1230-5214.pdf
+1230-5214
+1230-5214 Wright Circle, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011580 1230-5214.pdf
+1230-5214
+1230-5214 Wright Circle, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011581 1230-5214.pdf
+1230-5214
+1230-5214 Wright Circle, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011582 1230-5214.pdf
+1230-5214
+1230-5214 Wright Circle, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011587 558.pdf
+558
+558 Brayton Lane, Davenport
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011588 5240.pdf
+5240
+5240 Lonesome Dove, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011591 1401-3306.pdf
+1401-3306
+1401-3306 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011592 770-104.pdf
+770-104
+770-104 Siena, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011594 770-104.pdf
+770-104
+770-104 Siena, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011598 1401-3306.pdf
+1401-3306
+1401-3306 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011599 5457.pdf
+5457
+5457 New Independence, Independence
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011600 5457.pdf
+5457
+5457 New Independence, Independence
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011605 405.pdf
+405
+405 Iris, Celebration, Celebration - (W)
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011606 5524-10209.pdf
+5524-10209
+5524-10209 Metrowest Blvd, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011608 5524-10209.pdf
+5524-10209
+5524-10209 Metrowest Blvd, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011609 721-240.pdf
+721-240
+721-240 Front Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011610 1040.pdf
+1040
+1040 Nash, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011611 136.pdf
+136
+136 Grantham Dr, Davenport
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011618 770-304.pdf
+770-304
+770-304 Siena Palm, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011619 558.pdf
+558
+558 Brayton Lane, Davenport
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011620 14601.pdf
+14601
+14601 Old Thicket, Winter Garden
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011621 770-104.pdf
+770-104
+770-104 Siena, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011622 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011623 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011624 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011628 707-109.pdf
+707-109
+707-109 Westpark, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011637 1448.pdf
+1448
+1448 Stickley Ave, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011638 1448.pdf
+1448
+1448 Stickley Ave, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011645 5012-75.pdf
+5012-75
+5012-75 Laguna Bay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011659 10032.pdf
+10032
+10032 Oak Quarry, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011660 10032.pdf
+10032
+10032 Oak Quarry, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011661 10032.pdf
+10032
+10032 Oak Quarry, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011663 1423B.pdf
+1423B
+1423B Stickley, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011664 280-27307.pdf
+280-27307
+280-27307 Celebration Blvd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011666 280-27307.pdf
+280-27307
+280-27307 Celebration Blvd, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011667 565.pdf
+565
+565 Water St., Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011668 604.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011669 604.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011670 604B.pdf
+604B
+604B Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011671 604B.pdf
+604B
+604B Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011674 770-104.pdf
+770-104
+770-104 Siena, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011675 6157-1102.pdf
+6157-1102
+6157-1102 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011676 6157-1102.pdf
+6157-1102
+6157-1102 Metrowest, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011681 10032.pdf
+10032
+10032 Oak Quarry, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011682 10032.pdf
+10032
+10032 Oak Quarry, Orlando
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011683 11010.pdf
+11010
+11010 Orangeshire, Ocoee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011684 11010.pdf
+11010
+11010 Orangeshire, Ocoee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011685 11010.pdf
+11010
+11010 Orangeshire, Ocoee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011688 760-104.pdf
+760-104
+760-104 Centervale
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011693 1331.pdf
+1331
+1331 Flagstone, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011694 915.pdf
+915
+915 Greenlawn, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011695 604B.pdf
+604B
+604B Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011696 604B.pdf
+604B
+604B Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011698 11010.pdf
+11010
+11010 Orangeshire, Ocoee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011699 5012-75.pdf
+5012-75
+5012-75 Laguna Bay, Kissimmee
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011701 903.pdf
+903
+903 Maiden Street, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011710 604.pdf
+604
+604 Trumpet, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011711 1331.pdf
+1331
+1331 Flagstone, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011721 1401-3306.pdf
+1401-3306
+1401-3306 Celebration, Celebration
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011722 280-27307.pdf
+280-27307
+280-27307 Celebration Blvd, Celebration
+
+File Metrowest failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+Immediately movable files transferred.
+Files moved: 288
+Time taken: 180.220510003s
+Ready to analyze files that found multiple results?
+Now searching skipped files.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010768 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010768 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010774 121.pdf
+Address Number: 121
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010774 121.pdf
+121
+121 Bexley Drive Davenport,FL
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010777 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010777 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010779 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010779 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0010928 703.pdf
+Address Number: 703
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0010928 703.pdf
+703
+703 Eastlawn, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011022 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011022 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011027 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011027 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011038 719.pdf
+Address Number: 719
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011038 719.pdf
+719
+719 Siena Palm, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011040 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011040 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011041 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011041 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011042 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011042 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011043 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011043 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011046 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011046 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011057 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011057 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011083 719.pdf
+Address Number: 719
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011083 719.pdf
+719
+719 Siena Palm, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011085 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011085 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011086 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011086 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011104 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011104 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011106 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011106 1111.pdf
+1111
+1111 Damask, Celebration
+
+No folder match found for address: 620-201
+Searching for address number: 620-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011126 620-201.pdf
+Address Number: 620-201
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011126 620-201.pdf
+620-201
+620-6201 Celebration, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011138 1423.pdf
+Address Number: 1423
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011138 1423.pdf
+1423
+1423 Stickley, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011169 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011169 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011170 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011170 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011171 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011171 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011181 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011181 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011182 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011182 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011183 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011183 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011184 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011184 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011185 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011185 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011186 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011186 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011187 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011187 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011188 1111.pdf
+Address Number: 1111
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011188 1111.pdf
+1111
+1111 Damask, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011193 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011193 751.pdf
+751
+751 Oakshadows, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011196 703.pdf
+Address Number: 703
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011196 703.pdf
+703
+703 Eastlawn, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011208 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011208 1011.pdf
+1011
+1011 Nash, Celebration
+No results found for: ARS W0011213 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011273 121.pdf
+Address Number: 121
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011273 121.pdf
+121
+121 Bexley Drive Davenport,FL
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011312 1110.pdf
+Address Number: 1110
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011312 1110.pdf
+1110
+1110 Oakpond, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011313 1110.pdf
+Address Number: 1110
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011313 1110.pdf
+1110
+1110 Oakpond, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011317 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011317 1011.pdf
+1011
+1011 Nash, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011319 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011319 1011.pdf
+1011
+1011 Nash, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011320 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011320 1011.pdf
+1011
+1011 Nash, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011322 1107.pdf
+Address Number: 1107
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011322 1107.pdf
+1107
+1107 Croton Place, Celebration
+No results found for: ARS W0011368 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011369 703.pdf
+Address Number: 703
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011369 703.pdf
+703
+703 Eastlawn, Celebration
+No results found for: ARS W0011374 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011377 1010.pdf
+Address Number: 1010
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011377 1010.pdf
+1010
+1010 Elizabeth, Kissimmee
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011388 1200-103.pdf
+Address Number: 1200-103
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011388 1200-103.pdf
+1200-103
+1200-103 Ironsmith, Celebration
+No results found for: ARS W0011396 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011404 1011.pdf
+Address Number: 1011
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011404 1011.pdf
+1011
+1011 Nash, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011443 751.pdf
+Address Number: 751
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011443 751.pdf
+751
+751 Oakshadows, Celebration
+No results found for: ARS W0011458 936.pdf
+Try finding EXACT unit number and changing filename according to folder.
+No results found for: ARS W0011459 936.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011524 1227.pdf
+Address Number: 1227
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011524 1227.pdf
+1227
+1227 Falling Star, Orlando
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011526 200.pdf
+Address Number: 200
+
+File 200 failed to move!
+Try adding a Repairs and Invoices folder.
+Or filename may already exist in folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011526 200.pdf
+Address Number: 200
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011526 200.pdf
+200
+200 Norfolk, Celebration
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011542 1227.pdf
+Address Number: 1227
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011542 1227.pdf
+1227
+1227 Falling Star, Orlando
+
+No folder match found for address: 721-204
+Searching for address number: 721-
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011640 721-204.pdf
+Address Number: 721-204
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011640 721-204.pdf
+721-204
+721-240 Front Street, Celebration
+No results found for: ARS W0011680 Towncenter.pdf
+Try finding EXACT unit number and changing filename according to folder.
+
+Current invoice file being worked on:
+C:\Users\Marco\Google Drive (aplusrentals690@gmail.com)\Paid Invoices - To be filed (don't delete, still shared)\ARS W0011709 1101.pdf
+Address Number: 1101
+
+------------FILE MOVE SUCCESSFUL!------------
+ARS W0011709 1101.pdf
+1101
+1101 Rosemary, Celebration
+No results found for: desktop.ini
+Try finding EXACT unit number and changing filename according to folder.
+
+Finished moving invoices, go back and move invoices that weren't found in either PM or LO.
+Total number of files moved: 340
+Total running time of program: 645.785858143s
